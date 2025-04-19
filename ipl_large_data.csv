@@ -1,0 +1,2401 @@
+match_id,over,ball,batsman,bowler,runs,dismissal,venue
+1,1,1,Rayudu,Archer,2,No,M Chinnaswamy
+1,1,2,Mishra,Jamieson,4,No,Eden Gardens
+1,1,3,Rahul,Jamieson,3,No,Eden Gardens
+1,1,4,Ruturaj,Shami,0,LBW,Wankhede
+1,1,5,Rahul,Rahul,4,No,Wankhede
+1,1,6,Dhoni,Saini,3,No,M Chinnaswamy
+1,2,1,Dhoni,Chahar,2,No,MA Chidambaram
+1,2,2,Gaikwad,Patel,6,No,M Chinnaswamy
+1,2,3,Jadeja,Saini,1,No,MA Chidambaram
+1,2,4,Moeen Ali,Rahul,4,No,Wankhede
+1,2,5,Rahul,Rahul,1,No,Wankhede
+1,2,6,Vijay,Chahar,3,No,Eden Gardens
+1,3,1,Ruturaj,Boult,4,No,Eden Gardens
+1,3,2,Jadeja,Archer,4,No,Wankhede
+1,3,3,Ruturaj,Boult,4,No,M Chinnaswamy
+1,3,4,Moeen Ali,Bumrah,3,No,Eden Gardens
+1,3,5,Rahul,Rahul,6,No,Wankhede
+1,3,6,Conway,Archer,2,No,Narendra Modi Stadium
+1,4,1,Dhoni,Bumrah,6,No,Narendra Modi Stadium
+1,4,2,Moeen Ali,Patel,3,No,Eden Gardens
+1,4,3,Conway,Archer,6,No,Narendra Modi Stadium
+1,4,4,Rahul,Shami,4,No,Narendra Modi Stadium
+1,4,5,Jadeja,Boult,4,No,MA Chidambaram
+1,4,6,Rayudu,Shami,4,No,MA Chidambaram
+1,5,1,Rahul,Saini,1,No,MA Chidambaram
+1,5,2,Vijay,Bumrah,1,No,Eden Gardens
+1,5,3,Conway,Chahar,4,No,Narendra Modi Stadium
+1,5,4,Moeen Ali,Shami,2,No,M Chinnaswamy
+1,5,5,Conway,Archer,1,No,M Chinnaswamy
+1,5,6,Mishra,Archer,2,No,Rajiv Gandhi Stadium
+1,6,1,Moeen Ali,Saini,2,No,Wankhede
+1,6,2,Moeen Ali,Bumrah,4,No,Narendra Modi Stadium
+1,6,3,Ruturaj,Shami,0,Caught,Eden Gardens
+1,6,4,Gaikwad,Jamieson,3,No,MA Chidambaram
+1,6,5,Mishra,Saini,0,Caught,M Chinnaswamy
+1,6,6,Rayudu,Boult,3,No,M Chinnaswamy
+1,7,1,Vijay,Jamieson,0,No,Rajiv Gandhi Stadium
+1,7,2,Rayudu,Bumrah,6,No,Eden Gardens
+1,7,3,Rahul,Shami,2,No,Narendra Modi Stadium
+1,7,4,Conway,Saini,1,No,MA Chidambaram
+1,7,5,Ruturaj,Archer,2,No,Wankhede
+1,7,6,Vijay,Jamieson,1,No,Eden Gardens
+1,8,1,Conway,Patel,2,No,MA Chidambaram
+1,8,2,Ruturaj,Chahar,3,No,Eden Gardens
+1,8,3,Vijay,Boult,6,No,Wankhede
+1,8,4,Conway,Jamieson,6,No,Wankhede
+1,8,5,Rahul,Thakur,2,No,M Chinnaswamy
+1,8,6,Jadeja,Saini,2,No,M Chinnaswamy
+1,9,1,Vijay,Bumrah,0,Run Out,M Chinnaswamy
+1,9,2,Jadeja,Thakur,0,Caught,Wankhede
+1,9,3,Mishra,Archer,2,No,MA Chidambaram
+1,9,4,Mishra,Rahul,3,No,Rajiv Gandhi Stadium
+1,9,5,Moeen Ali,Chahar,0,Caught,MA Chidambaram
+1,9,6,Ruturaj,Chahar,2,No,Rajiv Gandhi Stadium
+1,10,1,Dhoni,Archer,1,No,M Chinnaswamy
+1,10,2,Gaikwad,Shami,1,No,Rajiv Gandhi Stadium
+1,10,3,Jadeja,Shami,1,No,Eden Gardens
+1,10,4,Rayudu,Rahul,0,Caught,Wankhede
+1,10,5,Dhoni,Chahar,4,No,Eden Gardens
+1,10,6,Ruturaj,Boult,3,No,MA Chidambaram
+1,11,1,Conway,Thakur,2,No,MA Chidambaram
+1,11,2,Mishra,Saini,0,Caught,Narendra Modi Stadium
+1,11,3,Jadeja,Shami,4,No,M Chinnaswamy
+1,11,4,Rahul,Jamieson,6,No,Wankhede
+1,11,5,Rayudu,Shami,6,No,Rajiv Gandhi Stadium
+1,11,6,Dhoni,Jamieson,4,No,Narendra Modi Stadium
+1,12,1,Jadeja,Rahul,0,No,MA Chidambaram
+1,12,2,Dhoni,Jamieson,6,No,Rajiv Gandhi Stadium
+1,12,3,Gaikwad,Thakur,3,No,Wankhede
+1,12,4,Dhoni,Bumrah,2,No,Rajiv Gandhi Stadium
+1,12,5,Rahul,Boult,3,No,Rajiv Gandhi Stadium
+1,12,6,Rahul,Archer,4,No,MA Chidambaram
+1,13,1,Vijay,Saini,4,No,Rajiv Gandhi Stadium
+1,13,2,Ruturaj,Archer,0,No,Narendra Modi Stadium
+1,13,3,Dhoni,Saini,6,No,MA Chidambaram
+1,13,4,Moeen Ali,Patel,1,No,Eden Gardens
+1,13,5,Jadeja,Rahul,2,No,M Chinnaswamy
+1,13,6,Moeen Ali,Chahar,2,No,Wankhede
+1,14,1,Moeen Ali,Jamieson,4,No,Narendra Modi Stadium
+1,14,2,Rahul,Thakur,2,No,MA Chidambaram
+1,14,3,Moeen Ali,Chahar,6,No,M Chinnaswamy
+1,14,4,Mishra,Boult,0,Bowled,Rajiv Gandhi Stadium
+1,14,5,Moeen Ali,Archer,6,No,M Chinnaswamy
+1,14,6,Jadeja,Boult,1,No,MA Chidambaram
+1,15,1,Jadeja,Saini,6,No,M Chinnaswamy
+1,15,2,Rayudu,Saini,2,No,MA Chidambaram
+1,15,3,Ruturaj,Jamieson,3,No,MA Chidambaram
+1,15,4,Jadeja,Saini,1,No,Eden Gardens
+1,15,5,Rahul,Boult,2,No,M Chinnaswamy
+1,15,6,Dhoni,Saini,1,No,MA Chidambaram
+1,16,1,Jadeja,Boult,1,No,Narendra Modi Stadium
+1,16,2,Gaikwad,Saini,2,No,Rajiv Gandhi Stadium
+1,16,3,Conway,Rahul,1,No,Rajiv Gandhi Stadium
+1,16,4,Moeen Ali,Saini,6,No,Eden Gardens
+1,16,5,Rahul,Chahar,6,No,M Chinnaswamy
+1,16,6,Moeen Ali,Saini,6,No,M Chinnaswamy
+1,17,1,Vijay,Chahar,3,No,Rajiv Gandhi Stadium
+1,17,2,Dhoni,Thakur,2,No,Rajiv Gandhi Stadium
+1,17,3,Vijay,Boult,4,No,MA Chidambaram
+1,17,4,Gaikwad,Patel,4,No,Eden Gardens
+1,17,5,Conway,Saini,2,No,Rajiv Gandhi Stadium
+1,17,6,Rayudu,Rahul,4,No,Eden Gardens
+1,18,1,Gaikwad,Rahul,2,No,Eden Gardens
+1,18,2,Vijay,Boult,1,No,Wankhede
+1,18,3,Gaikwad,Archer,1,No,M Chinnaswamy
+1,18,4,Rayudu,Patel,2,No,Wankhede
+1,18,5,Rahul,Patel,0,Caught,Eden Gardens
+1,18,6,Jadeja,Thakur,0,LBW,Narendra Modi Stadium
+1,19,1,Jadeja,Saini,0,Run Out,Narendra Modi Stadium
+1,19,2,Ruturaj,Patel,6,No,M Chinnaswamy
+1,19,3,Moeen Ali,Jamieson,1,No,Narendra Modi Stadium
+1,19,4,Rayudu,Jamieson,0,Caught,Narendra Modi Stadium
+1,19,5,Mishra,Bumrah,3,No,Eden Gardens
+1,19,6,Mishra,Jamieson,0,No,Rajiv Gandhi Stadium
+1,20,1,Dhoni,Bumrah,0,No,MA Chidambaram
+1,20,2,Conway,Archer,3,No,M Chinnaswamy
+1,20,3,Rahul,Patel,3,No,M Chinnaswamy
+1,20,4,Rayudu,Patel,2,No,Rajiv Gandhi Stadium
+1,20,5,Rayudu,Patel,2,No,Eden Gardens
+1,20,6,Rahul,Chahar,0,Run Out,Rajiv Gandhi Stadium
+2,1,1,Dhoni,Rahul,3,No,Rajiv Gandhi Stadium
+2,1,2,Rayudu,Patel,4,No,Rajiv Gandhi Stadium
+2,1,3,Rayudu,Boult,2,No,Eden Gardens
+2,1,4,Rahul,Saini,2,No,Rajiv Gandhi Stadium
+2,1,5,Jadeja,Jamieson,3,No,Eden Gardens
+2,1,6,Rahul,Rahul,1,No,MA Chidambaram
+2,2,1,Gaikwad,Boult,0,LBW,Eden Gardens
+2,2,2,Ruturaj,Saini,6,No,Wankhede
+2,2,3,Jadeja,Jamieson,2,No,MA Chidambaram
+2,2,4,Conway,Saini,3,No,M Chinnaswamy
+2,2,5,Mishra,Chahar,6,No,M Chinnaswamy
+2,2,6,Mishra,Boult,2,No,M Chinnaswamy
+2,3,1,Mishra,Patel,0,No,Rajiv Gandhi Stadium
+2,3,2,Ruturaj,Patel,4,No,M Chinnaswamy
+2,3,3,Rayudu,Chahar,2,No,MA Chidambaram
+2,3,4,Mishra,Archer,2,No,Eden Gardens
+2,3,5,Mishra,Saini,2,No,Eden Gardens
+2,3,6,Gaikwad,Thakur,1,No,Eden Gardens
+2,4,1,Moeen Ali,Boult,3,No,M Chinnaswamy
+2,4,2,Jadeja,Archer,4,No,M Chinnaswamy
+2,4,3,Moeen Ali,Saini,3,No,Narendra Modi Stadium
+2,4,4,Dhoni,Patel,4,No,M Chinnaswamy
+2,4,5,Vijay,Rahul,4,No,Eden Gardens
+2,4,6,Rahul,Boult,1,No,Narendra Modi Stadium
+2,5,1,Ruturaj,Patel,0,No,Rajiv Gandhi Stadium
+2,5,2,Gaikwad,Saini,1,No,Narendra Modi Stadium
+2,5,3,Vijay,Patel,0,Caught,M Chinnaswamy
+2,5,4,Rayudu,Jamieson,4,No,M Chinnaswamy
+2,5,5,Dhoni,Jamieson,3,No,Rajiv Gandhi Stadium
+2,5,6,Gaikwad,Chahar,6,No,Wankhede
+2,6,1,Mishra,Shami,6,No,M Chinnaswamy
+2,6,2,Moeen Ali,Chahar,6,No,M Chinnaswamy
+2,6,3,Conway,Patel,6,No,Wankhede
+2,6,4,Vijay,Bumrah,1,No,Rajiv Gandhi Stadium
+2,6,5,Conway,Patel,0,No,Eden Gardens
+2,6,6,Rayudu,Thakur,6,No,MA Chidambaram
+2,7,1,Vijay,Jamieson,1,No,MA Chidambaram
+2,7,2,Mishra,Boult,4,No,MA Chidambaram
+2,7,3,Gaikwad,Patel,6,No,M Chinnaswamy
+2,7,4,Vijay,Patel,1,No,MA Chidambaram
+2,7,5,Vijay,Jamieson,3,No,Wankhede
+2,7,6,Dhoni,Jamieson,1,No,Rajiv Gandhi Stadium
+2,8,1,Jadeja,Boult,2,No,Wankhede
+2,8,2,Dhoni,Jamieson,2,No,Wankhede
+2,8,3,Dhoni,Jamieson,4,No,MA Chidambaram
+2,8,4,Jadeja,Saini,1,No,Wankhede
+2,8,5,Dhoni,Thakur,0,No,Narendra Modi Stadium
+2,8,6,Moeen Ali,Chahar,0,Bowled,Narendra Modi Stadium
+2,9,1,Dhoni,Shami,1,No,Eden Gardens
+2,9,2,Vijay,Saini,3,No,Wankhede
+2,9,3,Moeen Ali,Saini,3,No,MA Chidambaram
+2,9,4,Mishra,Rahul,0,Bowled,Narendra Modi Stadium
+2,9,5,Jadeja,Bumrah,4,No,MA Chidambaram
+2,9,6,Dhoni,Chahar,6,No,Rajiv Gandhi Stadium
+2,10,1,Rahul,Saini,6,No,Eden Gardens
+2,10,2,Dhoni,Boult,1,No,Wankhede
+2,10,3,Dhoni,Saini,0,Bowled,Narendra Modi Stadium
+2,10,4,Ruturaj,Chahar,3,No,Narendra Modi Stadium
+2,10,5,Ruturaj,Patel,4,No,Wankhede
+2,10,6,Dhoni,Patel,1,No,MA Chidambaram
+2,11,1,Mishra,Saini,4,No,Rajiv Gandhi Stadium
+2,11,2,Moeen Ali,Rahul,3,No,MA Chidambaram
+2,11,3,Rahul,Jamieson,0,Caught,Rajiv Gandhi Stadium
+2,11,4,Gaikwad,Bumrah,3,No,Narendra Modi Stadium
+2,11,5,Mishra,Boult,6,No,Rajiv Gandhi Stadium
+2,11,6,Mishra,Thakur,3,No,M Chinnaswamy
+2,12,1,Ruturaj,Jamieson,4,No,M Chinnaswamy
+2,12,2,Dhoni,Rahul,4,No,Wankhede
+2,12,3,Ruturaj,Archer,0,No,Eden Gardens
+2,12,4,Rahul,Thakur,6,No,Rajiv Gandhi Stadium
+2,12,5,Gaikwad,Thakur,1,No,M Chinnaswamy
+2,12,6,Dhoni,Thakur,1,No,MA Chidambaram
+2,13,1,Gaikwad,Shami,4,No,Narendra Modi Stadium
+2,13,2,Mishra,Archer,0,No,M Chinnaswamy
+2,13,3,Rayudu,Thakur,4,No,Narendra Modi Stadium
+2,13,4,Rayudu,Shami,1,No,M Chinnaswamy
+2,13,5,Jadeja,Archer,6,No,Wankhede
+2,13,6,Ruturaj,Archer,0,No,Wankhede
+2,14,1,Conway,Chahar,3,No,Rajiv Gandhi Stadium
+2,14,2,Vijay,Thakur,6,No,Narendra Modi Stadium
+2,14,3,Rahul,Thakur,6,No,Narendra Modi Stadium
+2,14,4,Mishra,Thakur,6,No,Narendra Modi Stadium
+2,14,5,Jadeja,Chahar,3,No,M Chinnaswamy
+2,14,6,Vijay,Boult,3,No,Narendra Modi Stadium
+2,15,1,Vijay,Boult,1,No,M Chinnaswamy
+2,15,2,Moeen Ali,Boult,6,No,Narendra Modi Stadium
+2,15,3,Rayudu,Boult,3,No,MA Chidambaram
+2,15,4,Conway,Shami,2,No,MA Chidambaram
+2,15,5,Jadeja,Bumrah,3,No,Wankhede
+2,15,6,Rahul,Rahul,1,No,Eden Gardens
+2,16,1,Mishra,Boult,3,No,Rajiv Gandhi Stadium
+2,16,2,Moeen Ali,Shami,4,No,M Chinnaswamy
+2,16,3,Conway,Chahar,4,No,Eden Gardens
+2,16,4,Mishra,Saini,6,No,Rajiv Gandhi Stadium
+2,16,5,Jadeja,Jamieson,3,No,MA Chidambaram
+2,16,6,Ruturaj,Shami,4,No,MA Chidambaram
+2,17,1,Mishra,Patel,0,Caught,M Chinnaswamy
+2,17,2,Dhoni,Saini,1,No,Rajiv Gandhi Stadium
+2,17,3,Conway,Thakur,2,No,MA Chidambaram
+2,17,4,Gaikwad,Archer,3,No,Eden Gardens
+2,17,5,Ruturaj,Saini,3,No,Eden Gardens
+2,17,6,Moeen Ali,Chahar,6,No,Narendra Modi Stadium
+2,18,1,Rayudu,Shami,4,No,M Chinnaswamy
+2,18,2,Conway,Boult,6,No,M Chinnaswamy
+2,18,3,Gaikwad,Archer,0,Bowled,Rajiv Gandhi Stadium
+2,18,4,Rayudu,Jamieson,6,No,Wankhede
+2,18,5,Ruturaj,Boult,0,No,M Chinnaswamy
+2,18,6,Jadeja,Rahul,3,No,Wankhede
+2,19,1,Mishra,Patel,3,No,Rajiv Gandhi Stadium
+2,19,2,Gaikwad,Rahul,3,No,Eden Gardens
+2,19,3,Vijay,Patel,1,No,Narendra Modi Stadium
+2,19,4,Rayudu,Bumrah,2,No,Eden Gardens
+2,19,5,Ruturaj,Bumrah,3,No,Narendra Modi Stadium
+2,19,6,Rayudu,Shami,0,Run Out,Eden Gardens
+2,20,1,Jadeja,Chahar,2,No,Rajiv Gandhi Stadium
+2,20,2,Rayudu,Rahul,0,No,Eden Gardens
+2,20,3,Moeen Ali,Shami,4,No,Eden Gardens
+2,20,4,Mishra,Rahul,2,No,M Chinnaswamy
+2,20,5,Vijay,Boult,6,No,Rajiv Gandhi Stadium
+2,20,6,Moeen Ali,Patel,0,No,Rajiv Gandhi Stadium
+3,1,1,Mishra,Patel,3,No,M Chinnaswamy
+3,1,2,Conway,Thakur,4,No,Narendra Modi Stadium
+3,1,3,Rahul,Patel,4,No,MA Chidambaram
+3,1,4,Dhoni,Patel,6,No,Narendra Modi Stadium
+3,1,5,Conway,Chahar,0,No,Eden Gardens
+3,1,6,Ruturaj,Archer,2,No,Wankhede
+3,2,1,Gaikwad,Thakur,4,No,Narendra Modi Stadium
+3,2,2,Mishra,Jamieson,3,No,Rajiv Gandhi Stadium
+3,2,3,Conway,Saini,1,No,M Chinnaswamy
+3,2,4,Gaikwad,Chahar,0,Run Out,MA Chidambaram
+3,2,5,Mishra,Boult,1,No,Rajiv Gandhi Stadium
+3,2,6,Jadeja,Boult,0,No,MA Chidambaram
+3,3,1,Rahul,Archer,1,No,MA Chidambaram
+3,3,2,Rahul,Chahar,3,No,Wankhede
+3,3,3,Gaikwad,Jamieson,2,No,M Chinnaswamy
+3,3,4,Gaikwad,Thakur,2,No,Rajiv Gandhi Stadium
+3,3,5,Rahul,Thakur,6,No,Eden Gardens
+3,3,6,Jadeja,Chahar,6,No,Narendra Modi Stadium
+3,4,1,Rayudu,Jamieson,4,No,Eden Gardens
+3,4,2,Vijay,Patel,1,No,Wankhede
+3,4,3,Conway,Archer,4,No,Wankhede
+3,4,4,Gaikwad,Patel,3,No,M Chinnaswamy
+3,4,5,Dhoni,Patel,0,LBW,Narendra Modi Stadium
+3,4,6,Conway,Boult,3,No,M Chinnaswamy
+3,5,1,Rahul,Rahul,1,No,M Chinnaswamy
+3,5,2,Dhoni,Bumrah,6,No,M Chinnaswamy
+3,5,3,Dhoni,Bumrah,1,No,Narendra Modi Stadium
+3,5,4,Mishra,Patel,2,No,Eden Gardens
+3,5,5,Rahul,Boult,3,No,Wankhede
+3,5,6,Moeen Ali,Thakur,3,No,Narendra Modi Stadium
+3,6,1,Vijay,Archer,3,No,Eden Gardens
+3,6,2,Vijay,Boult,1,No,M Chinnaswamy
+3,6,3,Rayudu,Jamieson,2,No,Narendra Modi Stadium
+3,6,4,Gaikwad,Saini,1,No,M Chinnaswamy
+3,6,5,Dhoni,Jamieson,3,No,Narendra Modi Stadium
+3,6,6,Rahul,Shami,0,LBW,Wankhede
+3,7,1,Rahul,Bumrah,3,No,M Chinnaswamy
+3,7,2,Ruturaj,Jamieson,3,No,Rajiv Gandhi Stadium
+3,7,3,Gaikwad,Bumrah,1,No,Eden Gardens
+3,7,4,Mishra,Bumrah,4,No,Rajiv Gandhi Stadium
+3,7,5,Ruturaj,Saini,6,No,Wankhede
+3,7,6,Conway,Patel,6,No,Narendra Modi Stadium
+3,8,1,Dhoni,Jamieson,1,No,MA Chidambaram
+3,8,2,Conway,Thakur,6,No,Wankhede
+3,8,3,Rahul,Boult,1,No,MA Chidambaram
+3,8,4,Ruturaj,Shami,0,No,Wankhede
+3,8,5,Gaikwad,Thakur,6,No,MA Chidambaram
+3,8,6,Vijay,Boult,6,No,Wankhede
+3,9,1,Mishra,Saini,1,No,Narendra Modi Stadium
+3,9,2,Rahul,Jamieson,2,No,Narendra Modi Stadium
+3,9,3,Moeen Ali,Patel,6,No,Rajiv Gandhi Stadium
+3,9,4,Moeen Ali,Saini,2,No,Narendra Modi Stadium
+3,9,5,Vijay,Chahar,0,No,Narendra Modi Stadium
+3,9,6,Rayudu,Patel,6,No,Rajiv Gandhi Stadium
+3,10,1,Jadeja,Rahul,4,No,Eden Gardens
+3,10,2,Jadeja,Patel,6,No,Wankhede
+3,10,3,Dhoni,Rahul,6,No,M Chinnaswamy
+3,10,4,Vijay,Archer,2,No,MA Chidambaram
+3,10,5,Rahul,Archer,2,No,M Chinnaswamy
+3,10,6,Jadeja,Saini,6,No,MA Chidambaram
+3,11,1,Rahul,Boult,1,No,Eden Gardens
+3,11,2,Dhoni,Rahul,1,No,Narendra Modi Stadium
+3,11,3,Dhoni,Archer,0,LBW,MA Chidambaram
+3,11,4,Mishra,Saini,1,No,MA Chidambaram
+3,11,5,Rahul,Archer,3,No,Eden Gardens
+3,11,6,Dhoni,Patel,3,No,M Chinnaswamy
+3,12,1,Jadeja,Jamieson,2,No,Narendra Modi Stadium
+3,12,2,Moeen Ali,Jamieson,1,No,Wankhede
+3,12,3,Gaikwad,Chahar,3,No,Narendra Modi Stadium
+3,12,4,Ruturaj,Boult,6,No,MA Chidambaram
+3,12,5,Rayudu,Rahul,1,No,Wankhede
+3,12,6,Gaikwad,Shami,2,No,MA Chidambaram
+3,13,1,Gaikwad,Chahar,0,No,Wankhede
+3,13,2,Ruturaj,Chahar,4,No,MA Chidambaram
+3,13,3,Gaikwad,Rahul,4,No,Eden Gardens
+3,13,4,Ruturaj,Bumrah,3,No,Wankhede
+3,13,5,Mishra,Thakur,6,No,Narendra Modi Stadium
+3,13,6,Mishra,Patel,0,Bowled,Eden Gardens
+3,14,1,Jadeja,Rahul,0,Run Out,M Chinnaswamy
+3,14,2,Vijay,Archer,4,No,M Chinnaswamy
+3,14,3,Moeen Ali,Jamieson,6,No,Rajiv Gandhi Stadium
+3,14,4,Rayudu,Rahul,3,No,M Chinnaswamy
+3,14,5,Mishra,Patel,0,No,Wankhede
+3,14,6,Ruturaj,Boult,2,No,MA Chidambaram
+3,15,1,Dhoni,Saini,2,No,Narendra Modi Stadium
+3,15,2,Conway,Chahar,6,No,Rajiv Gandhi Stadium
+3,15,3,Rayudu,Thakur,1,No,M Chinnaswamy
+3,15,4,Vijay,Chahar,4,No,Rajiv Gandhi Stadium
+3,15,5,Vijay,Shami,3,No,Wankhede
+3,15,6,Mishra,Rahul,3,No,Narendra Modi Stadium
+3,16,1,Rayudu,Archer,0,No,M Chinnaswamy
+3,16,2,Conway,Jamieson,4,No,Narendra Modi Stadium
+3,16,3,Moeen Ali,Boult,3,No,Eden Gardens
+3,16,4,Jadeja,Archer,2,No,Wankhede
+3,16,5,Rayudu,Saini,4,No,Narendra Modi Stadium
+3,16,6,Dhoni,Thakur,0,Run Out,Eden Gardens
+3,17,1,Jadeja,Thakur,0,Bowled,Rajiv Gandhi Stadium
+3,17,2,Rahul,Bumrah,2,No,M Chinnaswamy
+3,17,3,Ruturaj,Shami,6,No,MA Chidambaram
+3,17,4,Rayudu,Chahar,2,No,Rajiv Gandhi Stadium
+3,17,5,Conway,Rahul,3,No,M Chinnaswamy
+3,17,6,Vijay,Bumrah,4,No,M Chinnaswamy
+3,18,1,Dhoni,Shami,0,Bowled,Wankhede
+3,18,2,Rayudu,Jamieson,0,Bowled,Wankhede
+3,18,3,Vijay,Archer,1,No,MA Chidambaram
+3,18,4,Rayudu,Saini,0,Run Out,Narendra Modi Stadium
+3,18,5,Rahul,Saini,4,No,M Chinnaswamy
+3,18,6,Conway,Bumrah,0,Caught,Wankhede
+3,19,1,Dhoni,Archer,3,No,Wankhede
+3,19,2,Rayudu,Shami,6,No,MA Chidambaram
+3,19,3,Conway,Archer,2,No,Wankhede
+3,19,4,Rayudu,Shami,0,LBW,Narendra Modi Stadium
+3,19,5,Mishra,Archer,4,No,MA Chidambaram
+3,19,6,Rayudu,Thakur,2,No,M Chinnaswamy
+3,20,1,Rahul,Archer,4,No,Wankhede
+3,20,2,Mishra,Chahar,3,No,Narendra Modi Stadium
+3,20,3,Rayudu,Shami,6,No,Wankhede
+3,20,4,Gaikwad,Jamieson,4,No,Narendra Modi Stadium
+3,20,5,Conway,Chahar,6,No,Rajiv Gandhi Stadium
+3,20,6,Mishra,Jamieson,3,No,Rajiv Gandhi Stadium
+4,1,1,Ruturaj,Boult,4,No,Wankhede
+4,1,2,Jadeja,Saini,0,No,Wankhede
+4,1,3,Moeen Ali,Shami,0,No,Rajiv Gandhi Stadium
+4,1,4,Conway,Patel,2,No,M Chinnaswamy
+4,1,5,Gaikwad,Saini,6,No,Eden Gardens
+4,1,6,Rahul,Chahar,2,No,MA Chidambaram
+4,2,1,Ruturaj,Bumrah,4,No,Wankhede
+4,2,2,Rayudu,Chahar,2,No,Wankhede
+4,2,3,Mishra,Rahul,0,Run Out,M Chinnaswamy
+4,2,4,Rahul,Chahar,1,No,Eden Gardens
+4,2,5,Vijay,Boult,1,No,Wankhede
+4,2,6,Gaikwad,Chahar,0,Caught,M Chinnaswamy
+4,3,1,Rayudu,Saini,3,No,Rajiv Gandhi Stadium
+4,3,2,Jadeja,Jamieson,0,Caught,M Chinnaswamy
+4,3,3,Jadeja,Bumrah,3,No,Eden Gardens
+4,3,4,Gaikwad,Chahar,0,Caught,M Chinnaswamy
+4,3,5,Rayudu,Rahul,4,No,Rajiv Gandhi Stadium
+4,3,6,Moeen Ali,Bumrah,3,No,MA Chidambaram
+4,4,1,Dhoni,Boult,6,No,M Chinnaswamy
+4,4,2,Dhoni,Chahar,2,No,Eden Gardens
+4,4,3,Gaikwad,Thakur,2,No,M Chinnaswamy
+4,4,4,Mishra,Bumrah,0,No,M Chinnaswamy
+4,4,5,Rahul,Shami,6,No,M Chinnaswamy
+4,4,6,Ruturaj,Thakur,2,No,Wankhede
+4,5,1,Dhoni,Saini,3,No,Eden Gardens
+4,5,2,Jadeja,Archer,3,No,M Chinnaswamy
+4,5,3,Conway,Saini,3,No,Wankhede
+4,5,4,Rayudu,Bumrah,3,No,Eden Gardens
+4,5,5,Ruturaj,Shami,4,No,M Chinnaswamy
+4,5,6,Moeen Ali,Saini,3,No,Eden Gardens
+4,6,1,Jadeja,Shami,0,Run Out,Rajiv Gandhi Stadium
+4,6,2,Moeen Ali,Rahul,2,No,M Chinnaswamy
+4,6,3,Rahul,Boult,6,No,Wankhede
+4,6,4,Mishra,Chahar,2,No,Rajiv Gandhi Stadium
+4,6,5,Ruturaj,Archer,2,No,M Chinnaswamy
+4,6,6,Mishra,Shami,3,No,Eden Gardens
+4,7,1,Jadeja,Jamieson,6,No,MA Chidambaram
+4,7,2,Moeen Ali,Archer,4,No,M Chinnaswamy
+4,7,3,Ruturaj,Archer,3,No,M Chinnaswamy
+4,7,4,Ruturaj,Boult,0,No,MA Chidambaram
+4,7,5,Mishra,Patel,0,No,Eden Gardens
+4,7,6,Moeen Ali,Saini,4,No,Eden Gardens
+4,8,1,Vijay,Thakur,0,Run Out,Eden Gardens
+4,8,2,Conway,Patel,3,No,Narendra Modi Stadium
+4,8,3,Gaikwad,Boult,2,No,Wankhede
+4,8,4,Vijay,Boult,3,No,Wankhede
+4,8,5,Conway,Saini,1,No,Eden Gardens
+4,8,6,Conway,Rahul,0,No,Wankhede
+4,9,1,Rayudu,Archer,1,No,Rajiv Gandhi Stadium
+4,9,2,Jadeja,Archer,1,No,Narendra Modi Stadium
+4,9,3,Vijay,Chahar,3,No,Eden Gardens
+4,9,4,Jadeja,Boult,2,No,MA Chidambaram
+4,9,5,Ruturaj,Thakur,6,No,MA Chidambaram
+4,9,6,Ruturaj,Patel,1,No,M Chinnaswamy
+4,10,1,Dhoni,Boult,0,Bowled,Wankhede
+4,10,2,Conway,Patel,0,LBW,Wankhede
+4,10,3,Jadeja,Shami,4,No,MA Chidambaram
+4,10,4,Moeen Ali,Bumrah,4,No,Rajiv Gandhi Stadium
+4,10,5,Jadeja,Boult,1,No,Narendra Modi Stadium
+4,10,6,Jadeja,Shami,4,No,Wankhede
+4,11,1,Vijay,Rahul,1,No,Rajiv Gandhi Stadium
+4,11,2,Ruturaj,Rahul,3,No,Wankhede
+4,11,3,Conway,Patel,1,No,Wankhede
+4,11,4,Vijay,Patel,3,No,M Chinnaswamy
+4,11,5,Moeen Ali,Archer,1,No,Eden Gardens
+4,11,6,Dhoni,Bumrah,0,Caught,Eden Gardens
+4,12,1,Conway,Jamieson,4,No,M Chinnaswamy
+4,12,2,Vijay,Saini,3,No,Wankhede
+4,12,3,Gaikwad,Thakur,4,No,Rajiv Gandhi Stadium
+4,12,4,Ruturaj,Jamieson,4,No,M Chinnaswamy
+4,12,5,Rahul,Jamieson,3,No,MA Chidambaram
+4,12,6,Jadeja,Saini,4,No,Eden Gardens
+4,13,1,Vijay,Archer,0,Caught,MA Chidambaram
+4,13,2,Conway,Jamieson,2,No,Wankhede
+4,13,3,Ruturaj,Shami,3,No,M Chinnaswamy
+4,13,4,Mishra,Saini,3,No,Narendra Modi Stadium
+4,13,5,Jadeja,Chahar,2,No,Eden Gardens
+4,13,6,Conway,Bumrah,0,Run Out,M Chinnaswamy
+4,14,1,Gaikwad,Patel,6,No,Narendra Modi Stadium
+4,14,2,Gaikwad,Jamieson,6,No,Rajiv Gandhi Stadium
+4,14,3,Mishra,Shami,1,No,Rajiv Gandhi Stadium
+4,14,4,Ruturaj,Patel,4,No,Narendra Modi Stadium
+4,14,5,Dhoni,Jamieson,1,No,MA Chidambaram
+4,14,6,Moeen Ali,Boult,6,No,MA Chidambaram
+4,15,1,Moeen Ali,Bumrah,0,No,Wankhede
+4,15,2,Ruturaj,Archer,0,Bowled,Rajiv Gandhi Stadium
+4,15,3,Mishra,Shami,6,No,MA Chidambaram
+4,15,4,Ruturaj,Patel,2,No,MA Chidambaram
+4,15,5,Jadeja,Patel,2,No,MA Chidambaram
+4,15,6,Ruturaj,Shami,4,No,Narendra Modi Stadium
+4,16,1,Rayudu,Boult,1,No,M Chinnaswamy
+4,16,2,Conway,Thakur,3,No,Narendra Modi Stadium
+4,16,3,Gaikwad,Saini,1,No,Eden Gardens
+4,16,4,Gaikwad,Patel,1,No,Wankhede
+4,16,5,Rahul,Thakur,0,Bowled,MA Chidambaram
+4,16,6,Moeen Ali,Bumrah,0,Run Out,M Chinnaswamy
+4,17,1,Dhoni,Saini,2,No,Rajiv Gandhi Stadium
+4,17,2,Gaikwad,Boult,3,No,Rajiv Gandhi Stadium
+4,17,3,Mishra,Rahul,6,No,M Chinnaswamy
+4,17,4,Mishra,Patel,3,No,Narendra Modi Stadium
+4,17,5,Rayudu,Jamieson,0,Bowled,MA Chidambaram
+4,17,6,Dhoni,Shami,6,No,M Chinnaswamy
+4,18,1,Conway,Rahul,0,Run Out,Eden Gardens
+4,18,2,Ruturaj,Shami,2,No,M Chinnaswamy
+4,18,3,Gaikwad,Archer,2,No,Narendra Modi Stadium
+4,18,4,Ruturaj,Boult,3,No,Rajiv Gandhi Stadium
+4,18,5,Mishra,Thakur,6,No,Wankhede
+4,18,6,Gaikwad,Jamieson,1,No,M Chinnaswamy
+4,19,1,Rayudu,Saini,1,No,Eden Gardens
+4,19,2,Gaikwad,Patel,2,No,Rajiv Gandhi Stadium
+4,19,3,Dhoni,Jamieson,2,No,Rajiv Gandhi Stadium
+4,19,4,Jadeja,Rahul,6,No,Eden Gardens
+4,19,5,Vijay,Bumrah,1,No,M Chinnaswamy
+4,19,6,Moeen Ali,Jamieson,4,No,Wankhede
+4,20,1,Ruturaj,Rahul,3,No,Narendra Modi Stadium
+4,20,2,Gaikwad,Shami,3,No,Eden Gardens
+4,20,3,Conway,Shami,0,LBW,Wankhede
+4,20,4,Mishra,Archer,2,No,Narendra Modi Stadium
+4,20,5,Ruturaj,Thakur,0,Bowled,MA Chidambaram
+4,20,6,Gaikwad,Boult,0,No,M Chinnaswamy
+5,1,1,Dhoni,Boult,4,No,Rajiv Gandhi Stadium
+5,1,2,Ruturaj,Archer,4,No,Eden Gardens
+5,1,3,Mishra,Patel,0,Bowled,Narendra Modi Stadium
+5,1,4,Gaikwad,Jamieson,2,No,Eden Gardens
+5,1,5,Dhoni,Jamieson,1,No,Wankhede
+5,1,6,Rayudu,Rahul,0,LBW,MA Chidambaram
+5,2,1,Jadeja,Shami,4,No,Rajiv Gandhi Stadium
+5,2,2,Mishra,Chahar,4,No,M Chinnaswamy
+5,2,3,Conway,Patel,2,No,M Chinnaswamy
+5,2,4,Moeen Ali,Chahar,0,Bowled,M Chinnaswamy
+5,2,5,Rahul,Shami,4,No,Rajiv Gandhi Stadium
+5,2,6,Jadeja,Rahul,6,No,MA Chidambaram
+5,3,1,Rahul,Rahul,6,No,Narendra Modi Stadium
+5,3,2,Jadeja,Boult,1,No,Wankhede
+5,3,3,Jadeja,Rahul,2,No,Eden Gardens
+5,3,4,Gaikwad,Rahul,2,No,M Chinnaswamy
+5,3,5,Ruturaj,Thakur,0,No,Rajiv Gandhi Stadium
+5,3,6,Mishra,Patel,6,No,Rajiv Gandhi Stadium
+5,4,1,Gaikwad,Patel,3,No,Wankhede
+5,4,2,Vijay,Thakur,6,No,Narendra Modi Stadium
+5,4,3,Vijay,Patel,1,No,Eden Gardens
+5,4,4,Dhoni,Saini,2,No,Eden Gardens
+5,4,5,Rayudu,Patel,0,Run Out,Eden Gardens
+5,4,6,Conway,Shami,1,No,Wankhede
+5,5,1,Vijay,Boult,4,No,Wankhede
+5,5,2,Rahul,Rahul,0,LBW,MA Chidambaram
+5,5,3,Vijay,Chahar,2,No,Wankhede
+5,5,4,Vijay,Shami,1,No,Wankhede
+5,5,5,Jadeja,Patel,0,Bowled,M Chinnaswamy
+5,5,6,Conway,Jamieson,3,No,Wankhede
+5,6,1,Gaikwad,Chahar,2,No,Rajiv Gandhi Stadium
+5,6,2,Dhoni,Saini,1,No,Rajiv Gandhi Stadium
+5,6,3,Ruturaj,Chahar,2,No,Eden Gardens
+5,6,4,Ruturaj,Patel,1,No,Wankhede
+5,6,5,Vijay,Archer,4,No,Rajiv Gandhi Stadium
+5,6,6,Vijay,Jamieson,6,No,Eden Gardens
+5,7,1,Gaikwad,Patel,4,No,Rajiv Gandhi Stadium
+5,7,2,Dhoni,Archer,3,No,Narendra Modi Stadium
+5,7,3,Dhoni,Jamieson,4,No,Eden Gardens
+5,7,4,Dhoni,Chahar,0,Bowled,Narendra Modi Stadium
+5,7,5,Dhoni,Shami,3,No,Rajiv Gandhi Stadium
+5,7,6,Mishra,Bumrah,3,No,Eden Gardens
+5,8,1,Mishra,Boult,1,No,Rajiv Gandhi Stadium
+5,8,2,Rayudu,Archer,1,No,Wankhede
+5,8,3,Jadeja,Jamieson,4,No,Narendra Modi Stadium
+5,8,4,Dhoni,Archer,2,No,M Chinnaswamy
+5,8,5,Dhoni,Patel,4,No,Eden Gardens
+5,8,6,Rahul,Patel,3,No,Eden Gardens
+5,9,1,Dhoni,Patel,4,No,MA Chidambaram
+5,9,2,Rahul,Shami,6,No,Eden Gardens
+5,9,3,Mishra,Archer,2,No,M Chinnaswamy
+5,9,4,Rayudu,Chahar,2,No,Wankhede
+5,9,5,Conway,Rahul,2,No,Eden Gardens
+5,9,6,Mishra,Rahul,2,No,MA Chidambaram
+5,10,1,Jadeja,Rahul,0,No,Wankhede
+5,10,2,Conway,Patel,2,No,M Chinnaswamy
+5,10,3,Jadeja,Chahar,2,No,Eden Gardens
+5,10,4,Rayudu,Boult,3,No,Wankhede
+5,10,5,Vijay,Boult,3,No,M Chinnaswamy
+5,10,6,Rahul,Archer,6,No,Eden Gardens
+5,11,1,Ruturaj,Shami,3,No,MA Chidambaram
+5,11,2,Rayudu,Jamieson,0,Caught,Wankhede
+5,11,3,Dhoni,Shami,4,No,Narendra Modi Stadium
+5,11,4,Rayudu,Jamieson,0,LBW,Eden Gardens
+5,11,5,Ruturaj,Archer,0,Caught,MA Chidambaram
+5,11,6,Rayudu,Shami,2,No,Eden Gardens
+5,12,1,Conway,Saini,0,Caught,Eden Gardens
+5,12,2,Dhoni,Thakur,1,No,Eden Gardens
+5,12,3,Conway,Patel,0,Bowled,Rajiv Gandhi Stadium
+5,12,4,Moeen Ali,Rahul,6,No,Narendra Modi Stadium
+5,12,5,Jadeja,Saini,1,No,Rajiv Gandhi Stadium
+5,12,6,Dhoni,Patel,0,Caught,Rajiv Gandhi Stadium
+5,13,1,Rayudu,Saini,3,No,Narendra Modi Stadium
+5,13,2,Mishra,Patel,3,No,MA Chidambaram
+5,13,3,Conway,Boult,3,No,Wankhede
+5,13,4,Dhoni,Archer,1,No,MA Chidambaram
+5,13,5,Conway,Saini,0,LBW,Narendra Modi Stadium
+5,13,6,Gaikwad,Saini,4,No,Rajiv Gandhi Stadium
+5,14,1,Jadeja,Bumrah,4,No,Wankhede
+5,14,2,Rahul,Saini,0,Caught,Wankhede
+5,14,3,Ruturaj,Boult,3,No,Rajiv Gandhi Stadium
+5,14,4,Ruturaj,Chahar,6,No,MA Chidambaram
+5,14,5,Gaikwad,Bumrah,1,No,M Chinnaswamy
+5,14,6,Gaikwad,Patel,6,No,MA Chidambaram
+5,15,1,Jadeja,Thakur,4,No,Rajiv Gandhi Stadium
+5,15,2,Ruturaj,Chahar,6,No,Wankhede
+5,15,3,Gaikwad,Shami,1,No,Rajiv Gandhi Stadium
+5,15,4,Jadeja,Archer,0,Bowled,Rajiv Gandhi Stadium
+5,15,5,Vijay,Patel,4,No,Eden Gardens
+5,15,6,Rahul,Bumrah,4,No,M Chinnaswamy
+5,16,1,Rayudu,Rahul,2,No,Narendra Modi Stadium
+5,16,2,Conway,Shami,0,No,MA Chidambaram
+5,16,3,Rahul,Patel,3,No,MA Chidambaram
+5,16,4,Jadeja,Jamieson,3,No,MA Chidambaram
+5,16,5,Ruturaj,Chahar,2,No,Eden Gardens
+5,16,6,Gaikwad,Boult,6,No,M Chinnaswamy
+5,17,1,Rahul,Boult,4,No,MA Chidambaram
+5,17,2,Jadeja,Saini,3,No,Narendra Modi Stadium
+5,17,3,Dhoni,Saini,4,No,Rajiv Gandhi Stadium
+5,17,4,Moeen Ali,Archer,3,No,MA Chidambaram
+5,17,5,Vijay,Boult,6,No,Narendra Modi Stadium
+5,17,6,Rayudu,Saini,2,No,Wankhede
+5,18,1,Mishra,Saini,1,No,Eden Gardens
+5,18,2,Mishra,Thakur,6,No,Eden Gardens
+5,18,3,Vijay,Boult,3,No,Narendra Modi Stadium
+5,18,4,Ruturaj,Bumrah,4,No,Wankhede
+5,18,5,Dhoni,Saini,4,No,Rajiv Gandhi Stadium
+5,18,6,Mishra,Saini,3,No,Eden Gardens
+5,19,1,Moeen Ali,Archer,0,Bowled,Rajiv Gandhi Stadium
+5,19,2,Mishra,Saini,1,No,M Chinnaswamy
+5,19,3,Rayudu,Patel,0,Run Out,MA Chidambaram
+5,19,4,Rahul,Patel,2,No,Wankhede
+5,19,5,Dhoni,Bumrah,2,No,M Chinnaswamy
+5,19,6,Gaikwad,Chahar,3,No,Narendra Modi Stadium
+5,20,1,Moeen Ali,Patel,3,No,Narendra Modi Stadium
+5,20,2,Jadeja,Saini,6,No,M Chinnaswamy
+5,20,3,Conway,Saini,3,No,Eden Gardens
+5,20,4,Rahul,Archer,4,No,M Chinnaswamy
+5,20,5,Moeen Ali,Bumrah,6,No,Narendra Modi Stadium
+5,20,6,Rayudu,Patel,1,No,Eden Gardens
+6,1,1,Dhoni,Boult,4,No,Wankhede
+6,1,2,Mishra,Thakur,6,No,M Chinnaswamy
+6,1,3,Rayudu,Patel,2,No,Narendra Modi Stadium
+6,1,4,Rayudu,Thakur,1,No,Wankhede
+6,1,5,Conway,Rahul,0,LBW,M Chinnaswamy
+6,1,6,Rayudu,Saini,0,Run Out,Eden Gardens
+6,2,1,Moeen Ali,Chahar,3,No,MA Chidambaram
+6,2,2,Moeen Ali,Jamieson,2,No,Narendra Modi Stadium
+6,2,3,Rayudu,Boult,1,No,Rajiv Gandhi Stadium
+6,2,4,Rahul,Shami,4,No,Eden Gardens
+6,2,5,Jadeja,Thakur,3,No,M Chinnaswamy
+6,2,6,Conway,Jamieson,2,No,Eden Gardens
+6,3,1,Mishra,Bumrah,6,No,Wankhede
+6,3,2,Moeen Ali,Archer,3,No,Narendra Modi Stadium
+6,3,3,Ruturaj,Patel,4,No,Eden Gardens
+6,3,4,Ruturaj,Saini,6,No,MA Chidambaram
+6,3,5,Ruturaj,Rahul,1,No,Wankhede
+6,3,6,Mishra,Rahul,3,No,Wankhede
+6,4,1,Vijay,Chahar,0,No,Wankhede
+6,4,2,Vijay,Patel,4,No,Eden Gardens
+6,4,3,Dhoni,Archer,1,No,Eden Gardens
+6,4,4,Gaikwad,Archer,4,No,MA Chidambaram
+6,4,5,Moeen Ali,Thakur,0,LBW,MA Chidambaram
+6,4,6,Conway,Bumrah,1,No,M Chinnaswamy
+6,5,1,Rahul,Archer,6,No,MA Chidambaram
+6,5,2,Gaikwad,Shami,1,No,Rajiv Gandhi Stadium
+6,5,3,Vijay,Chahar,1,No,M Chinnaswamy
+6,5,4,Dhoni,Patel,4,No,Narendra Modi Stadium
+6,5,5,Gaikwad,Saini,6,No,Eden Gardens
+6,5,6,Conway,Thakur,1,No,Wankhede
+6,6,1,Mishra,Bumrah,4,No,Wankhede
+6,6,2,Moeen Ali,Shami,2,No,Narendra Modi Stadium
+6,6,3,Ruturaj,Bumrah,4,No,Eden Gardens
+6,6,4,Jadeja,Shami,1,No,Wankhede
+6,6,5,Gaikwad,Jamieson,3,No,MA Chidambaram
+6,6,6,Mishra,Rahul,1,No,Wankhede
+6,7,1,Moeen Ali,Chahar,1,No,M Chinnaswamy
+6,7,2,Rahul,Bumrah,6,No,MA Chidambaram
+6,7,3,Rayudu,Chahar,4,No,Narendra Modi Stadium
+6,7,4,Jadeja,Thakur,2,No,M Chinnaswamy
+6,7,5,Ruturaj,Jamieson,0,Bowled,Rajiv Gandhi Stadium
+6,7,6,Rahul,Chahar,6,No,Wankhede
+6,8,1,Rahul,Bumrah,3,No,M Chinnaswamy
+6,8,2,Moeen Ali,Patel,3,No,Rajiv Gandhi Stadium
+6,8,3,Ruturaj,Jamieson,4,No,M Chinnaswamy
+6,8,4,Ruturaj,Bumrah,1,No,Eden Gardens
+6,8,5,Rayudu,Shami,2,No,Wankhede
+6,8,6,Mishra,Archer,6,No,M Chinnaswamy
+6,9,1,Rayudu,Archer,4,No,M Chinnaswamy
+6,9,2,Rayudu,Archer,2,No,Wankhede
+6,9,3,Ruturaj,Patel,3,No,Narendra Modi Stadium
+6,9,4,Rahul,Boult,4,No,Narendra Modi Stadium
+6,9,5,Conway,Saini,4,No,Eden Gardens
+6,9,6,Dhoni,Patel,3,No,Wankhede
+6,10,1,Conway,Patel,3,No,Narendra Modi Stadium
+6,10,2,Gaikwad,Shami,3,No,Eden Gardens
+6,10,3,Vijay,Archer,2,No,Wankhede
+6,10,4,Gaikwad,Chahar,4,No,Narendra Modi Stadium
+6,10,5,Conway,Patel,0,Caught,MA Chidambaram
+6,10,6,Rahul,Archer,4,No,Rajiv Gandhi Stadium
+6,11,1,Rayudu,Chahar,4,No,Wankhede
+6,11,2,Conway,Patel,3,No,Eden Gardens
+6,11,3,Rahul,Shami,4,No,Wankhede
+6,11,4,Conway,Shami,6,No,Rajiv Gandhi Stadium
+6,11,5,Rahul,Saini,6,No,Rajiv Gandhi Stadium
+6,11,6,Ruturaj,Jamieson,6,No,M Chinnaswamy
+6,12,1,Rayudu,Chahar,1,No,Narendra Modi Stadium
+6,12,2,Ruturaj,Chahar,0,Run Out,MA Chidambaram
+6,12,3,Rahul,Saini,1,No,Eden Gardens
+6,12,4,Conway,Archer,4,No,Narendra Modi Stadium
+6,12,5,Gaikwad,Rahul,4,No,Wankhede
+6,12,6,Mishra,Boult,2,No,Rajiv Gandhi Stadium
+6,13,1,Ruturaj,Boult,2,No,Narendra Modi Stadium
+6,13,2,Dhoni,Shami,6,No,Narendra Modi Stadium
+6,13,3,Ruturaj,Thakur,2,No,Narendra Modi Stadium
+6,13,4,Jadeja,Bumrah,0,Run Out,Rajiv Gandhi Stadium
+6,13,5,Rahul,Saini,1,No,Eden Gardens
+6,13,6,Conway,Jamieson,3,No,Rajiv Gandhi Stadium
+6,14,1,Ruturaj,Bumrah,3,No,MA Chidambaram
+6,14,2,Vijay,Shami,4,No,Wankhede
+6,14,3,Rayudu,Bumrah,3,No,Eden Gardens
+6,14,4,Rayudu,Boult,6,No,Narendra Modi Stadium
+6,14,5,Mishra,Chahar,4,No,Narendra Modi Stadium
+6,14,6,Rahul,Thakur,6,No,Eden Gardens
+6,15,1,Rayudu,Saini,6,No,Eden Gardens
+6,15,2,Mishra,Chahar,6,No,Rajiv Gandhi Stadium
+6,15,3,Rahul,Saini,3,No,Eden Gardens
+6,15,4,Vijay,Chahar,0,No,Narendra Modi Stadium
+6,15,5,Rayudu,Chahar,2,No,M Chinnaswamy
+6,15,6,Jadeja,Chahar,4,No,Rajiv Gandhi Stadium
+6,16,1,Jadeja,Jamieson,4,No,Wankhede
+6,16,2,Jadeja,Bumrah,4,No,Rajiv Gandhi Stadium
+6,16,3,Conway,Jamieson,3,No,Eden Gardens
+6,16,4,Dhoni,Archer,2,No,Wankhede
+6,16,5,Gaikwad,Saini,2,No,Eden Gardens
+6,16,6,Rahul,Chahar,2,No,M Chinnaswamy
+6,17,1,Gaikwad,Rahul,2,No,M Chinnaswamy
+6,17,2,Rahul,Chahar,2,No,MA Chidambaram
+6,17,3,Ruturaj,Saini,6,No,Wankhede
+6,17,4,Moeen Ali,Rahul,0,Caught,Rajiv Gandhi Stadium
+6,17,5,Rahul,Patel,2,No,M Chinnaswamy
+6,17,6,Rayudu,Archer,6,No,MA Chidambaram
+6,18,1,Conway,Patel,1,No,Narendra Modi Stadium
+6,18,2,Dhoni,Saini,3,No,MA Chidambaram
+6,18,3,Dhoni,Archer,1,No,Rajiv Gandhi Stadium
+6,18,4,Gaikwad,Patel,6,No,Eden Gardens
+6,18,5,Ruturaj,Thakur,0,Bowled,Eden Gardens
+6,18,6,Gaikwad,Chahar,0,No,Rajiv Gandhi Stadium
+6,19,1,Rahul,Archer,2,No,M Chinnaswamy
+6,19,2,Gaikwad,Shami,3,No,Wankhede
+6,19,3,Moeen Ali,Shami,3,No,Narendra Modi Stadium
+6,19,4,Mishra,Shami,2,No,Eden Gardens
+6,19,5,Ruturaj,Chahar,0,LBW,M Chinnaswamy
+6,19,6,Mishra,Patel,4,No,Rajiv Gandhi Stadium
+6,20,1,Jadeja,Thakur,4,No,Wankhede
+6,20,2,Moeen Ali,Chahar,4,No,Wankhede
+6,20,3,Rahul,Boult,4,No,Wankhede
+6,20,4,Vijay,Jamieson,3,No,Rajiv Gandhi Stadium
+6,20,5,Dhoni,Patel,1,No,M Chinnaswamy
+6,20,6,Rahul,Jamieson,1,No,M Chinnaswamy
+7,1,1,Mishra,Thakur,2,No,M Chinnaswamy
+7,1,2,Rahul,Shami,0,Bowled,M Chinnaswamy
+7,1,3,Rayudu,Patel,0,No,Rajiv Gandhi Stadium
+7,1,4,Dhoni,Archer,6,No,Eden Gardens
+7,1,5,Gaikwad,Jamieson,3,No,Wankhede
+7,1,6,Rayudu,Saini,0,Run Out,Rajiv Gandhi Stadium
+7,2,1,Jadeja,Chahar,2,No,Eden Gardens
+7,2,2,Moeen Ali,Boult,1,No,Wankhede
+7,2,3,Jadeja,Chahar,2,No,Eden Gardens
+7,2,4,Gaikwad,Boult,4,No,Rajiv Gandhi Stadium
+7,2,5,Mishra,Rahul,1,No,Eden Gardens
+7,2,6,Gaikwad,Thakur,3,No,Rajiv Gandhi Stadium
+7,3,1,Mishra,Thakur,1,No,Rajiv Gandhi Stadium
+7,3,2,Dhoni,Chahar,0,Caught,Narendra Modi Stadium
+7,3,3,Dhoni,Shami,1,No,Wankhede
+7,3,4,Ruturaj,Shami,3,No,Eden Gardens
+7,3,5,Jadeja,Shami,2,No,Narendra Modi Stadium
+7,3,6,Rahul,Archer,1,No,Wankhede
+7,4,1,Mishra,Patel,4,No,MA Chidambaram
+7,4,2,Moeen Ali,Chahar,4,No,Wankhede
+7,4,3,Jadeja,Jamieson,6,No,Eden Gardens
+7,4,4,Rayudu,Saini,0,Bowled,Eden Gardens
+7,4,5,Moeen Ali,Patel,3,No,Rajiv Gandhi Stadium
+7,4,6,Moeen Ali,Patel,4,No,Eden Gardens
+7,5,1,Rayudu,Patel,6,No,MA Chidambaram
+7,5,2,Rayudu,Shami,6,No,Wankhede
+7,5,3,Conway,Shami,3,No,Wankhede
+7,5,4,Vijay,Boult,3,No,Narendra Modi Stadium
+7,5,5,Mishra,Patel,2,No,M Chinnaswamy
+7,5,6,Dhoni,Archer,2,No,MA Chidambaram
+7,6,1,Gaikwad,Archer,1,No,M Chinnaswamy
+7,6,2,Mishra,Chahar,4,No,Eden Gardens
+7,6,3,Dhoni,Saini,0,LBW,M Chinnaswamy
+7,6,4,Jadeja,Shami,2,No,Narendra Modi Stadium
+7,6,5,Vijay,Bumrah,0,Bowled,Eden Gardens
+7,6,6,Rayudu,Shami,3,No,Wankhede
+7,7,1,Dhoni,Rahul,0,Bowled,Narendra Modi Stadium
+7,7,2,Conway,Thakur,0,Caught,M Chinnaswamy
+7,7,3,Mishra,Jamieson,3,No,MA Chidambaram
+7,7,4,Mishra,Boult,1,No,Wankhede
+7,7,5,Moeen Ali,Shami,4,No,Eden Gardens
+7,7,6,Rahul,Thakur,1,No,M Chinnaswamy
+7,8,1,Rahul,Chahar,4,No,MA Chidambaram
+7,8,2,Rahul,Shami,0,Bowled,M Chinnaswamy
+7,8,3,Gaikwad,Boult,6,No,Wankhede
+7,8,4,Moeen Ali,Jamieson,1,No,M Chinnaswamy
+7,8,5,Gaikwad,Boult,6,No,M Chinnaswamy
+7,8,6,Mishra,Chahar,1,No,Rajiv Gandhi Stadium
+7,9,1,Gaikwad,Jamieson,6,No,M Chinnaswamy
+7,9,2,Jadeja,Archer,2,No,MA Chidambaram
+7,9,3,Ruturaj,Chahar,3,No,Rajiv Gandhi Stadium
+7,9,4,Moeen Ali,Saini,2,No,Narendra Modi Stadium
+7,9,5,Dhoni,Archer,6,No,Rajiv Gandhi Stadium
+7,9,6,Rahul,Archer,6,No,Narendra Modi Stadium
+7,10,1,Rayudu,Chahar,1,No,Eden Gardens
+7,10,2,Moeen Ali,Boult,1,No,Wankhede
+7,10,3,Gaikwad,Boult,6,No,Eden Gardens
+7,10,4,Vijay,Chahar,3,No,MA Chidambaram
+7,10,5,Vijay,Rahul,6,No,Eden Gardens
+7,10,6,Conway,Saini,1,No,Rajiv Gandhi Stadium
+7,11,1,Vijay,Boult,3,No,Rajiv Gandhi Stadium
+7,11,2,Conway,Archer,0,Run Out,Narendra Modi Stadium
+7,11,3,Rayudu,Shami,6,No,Narendra Modi Stadium
+7,11,4,Ruturaj,Bumrah,3,No,Wankhede
+7,11,5,Ruturaj,Saini,3,No,Rajiv Gandhi Stadium
+7,11,6,Conway,Rahul,3,No,Narendra Modi Stadium
+7,12,1,Vijay,Jamieson,6,No,Eden Gardens
+7,12,2,Moeen Ali,Jamieson,2,No,Wankhede
+7,12,3,Dhoni,Boult,0,Bowled,MA Chidambaram
+7,12,4,Rayudu,Jamieson,3,No,Wankhede
+7,12,5,Mishra,Patel,6,No,Narendra Modi Stadium
+7,12,6,Rahul,Saini,4,No,M Chinnaswamy
+7,13,1,Rahul,Saini,3,No,Eden Gardens
+7,13,2,Vijay,Saini,0,Bowled,Wankhede
+7,13,3,Moeen Ali,Shami,2,No,Rajiv Gandhi Stadium
+7,13,4,Moeen Ali,Thakur,2,No,Wankhede
+7,13,5,Vijay,Archer,0,Caught,Narendra Modi Stadium
+7,13,6,Gaikwad,Thakur,3,No,Wankhede
+7,14,1,Gaikwad,Rahul,6,No,Eden Gardens
+7,14,2,Moeen Ali,Bumrah,0,Caught,Eden Gardens
+7,14,3,Rahul,Patel,1,No,M Chinnaswamy
+7,14,4,Vijay,Thakur,6,No,Rajiv Gandhi Stadium
+7,14,5,Mishra,Patel,6,No,Wankhede
+7,14,6,Dhoni,Thakur,3,No,M Chinnaswamy
+7,15,1,Ruturaj,Thakur,4,No,M Chinnaswamy
+7,15,2,Rayudu,Chahar,6,No,Narendra Modi Stadium
+7,15,3,Vijay,Boult,1,No,MA Chidambaram
+7,15,4,Vijay,Archer,1,No,MA Chidambaram
+7,15,5,Ruturaj,Archer,3,No,MA Chidambaram
+7,15,6,Ruturaj,Patel,6,No,MA Chidambaram
+7,16,1,Gaikwad,Boult,1,No,Narendra Modi Stadium
+7,16,2,Moeen Ali,Chahar,3,No,Rajiv Gandhi Stadium
+7,16,3,Dhoni,Chahar,2,No,Rajiv Gandhi Stadium
+7,16,4,Rahul,Shami,2,No,Eden Gardens
+7,16,5,Conway,Bumrah,0,Caught,Eden Gardens
+7,16,6,Jadeja,Saini,4,No,Eden Gardens
+7,17,1,Rayudu,Shami,6,No,Narendra Modi Stadium
+7,17,2,Vijay,Thakur,3,No,MA Chidambaram
+7,17,3,Moeen Ali,Rahul,6,No,Rajiv Gandhi Stadium
+7,17,4,Moeen Ali,Patel,1,No,Eden Gardens
+7,17,5,Ruturaj,Rahul,2,No,Wankhede
+7,17,6,Jadeja,Bumrah,3,No,Narendra Modi Stadium
+7,18,1,Mishra,Patel,4,No,Narendra Modi Stadium
+7,18,2,Rahul,Rahul,3,No,MA Chidambaram
+7,18,3,Rayudu,Bumrah,6,No,Narendra Modi Stadium
+7,18,4,Rayudu,Shami,1,No,Narendra Modi Stadium
+7,18,5,Mishra,Chahar,6,No,M Chinnaswamy
+7,18,6,Ruturaj,Boult,1,No,M Chinnaswamy
+7,19,1,Moeen Ali,Rahul,4,No,M Chinnaswamy
+7,19,2,Conway,Bumrah,1,No,Eden Gardens
+7,19,3,Ruturaj,Jamieson,6,No,Wankhede
+7,19,4,Conway,Boult,6,No,M Chinnaswamy
+7,19,5,Moeen Ali,Thakur,2,No,Rajiv Gandhi Stadium
+7,19,6,Rayudu,Chahar,4,No,MA Chidambaram
+7,20,1,Rayudu,Boult,3,No,Eden Gardens
+7,20,2,Ruturaj,Bumrah,1,No,Eden Gardens
+7,20,3,Conway,Shami,6,No,MA Chidambaram
+7,20,4,Moeen Ali,Boult,1,No,Narendra Modi Stadium
+7,20,5,Dhoni,Shami,4,No,MA Chidambaram
+7,20,6,Jadeja,Saini,4,No,Wankhede
+8,1,1,Gaikwad,Boult,1,No,Rajiv Gandhi Stadium
+8,1,2,Mishra,Jamieson,3,No,M Chinnaswamy
+8,1,3,Ruturaj,Jamieson,2,No,Wankhede
+8,1,4,Ruturaj,Archer,0,Run Out,M Chinnaswamy
+8,1,5,Dhoni,Saini,4,No,Rajiv Gandhi Stadium
+8,1,6,Rahul,Rahul,2,No,Wankhede
+8,2,1,Gaikwad,Shami,3,No,M Chinnaswamy
+8,2,2,Dhoni,Bumrah,0,Bowled,MA Chidambaram
+8,2,3,Rayudu,Bumrah,6,No,Rajiv Gandhi Stadium
+8,2,4,Ruturaj,Thakur,2,No,Eden Gardens
+8,2,5,Rayudu,Rahul,6,No,Rajiv Gandhi Stadium
+8,2,6,Conway,Jamieson,4,No,Eden Gardens
+8,3,1,Mishra,Patel,4,No,MA Chidambaram
+8,3,2,Dhoni,Shami,0,No,Eden Gardens
+8,3,3,Gaikwad,Chahar,2,No,MA Chidambaram
+8,3,4,Dhoni,Chahar,1,No,Narendra Modi Stadium
+8,3,5,Vijay,Boult,4,No,M Chinnaswamy
+8,3,6,Gaikwad,Boult,6,No,Wankhede
+8,4,1,Mishra,Archer,3,No,Narendra Modi Stadium
+8,4,2,Rahul,Boult,1,No,MA Chidambaram
+8,4,3,Dhoni,Thakur,2,No,MA Chidambaram
+8,4,4,Gaikwad,Saini,4,No,Rajiv Gandhi Stadium
+8,4,5,Mishra,Thakur,4,No,MA Chidambaram
+8,4,6,Jadeja,Chahar,2,No,M Chinnaswamy
+8,5,1,Mishra,Patel,3,No,Wankhede
+8,5,2,Rayudu,Thakur,0,Bowled,Wankhede
+8,5,3,Vijay,Bumrah,1,No,Wankhede
+8,5,4,Gaikwad,Thakur,0,Bowled,M Chinnaswamy
+8,5,5,Dhoni,Archer,3,No,Wankhede
+8,5,6,Vijay,Shami,4,No,Wankhede
+8,6,1,Rahul,Patel,6,No,MA Chidambaram
+8,6,2,Rayudu,Rahul,2,No,Eden Gardens
+8,6,3,Gaikwad,Bumrah,0,LBW,Eden Gardens
+8,6,4,Gaikwad,Saini,0,Bowled,Wankhede
+8,6,5,Dhoni,Boult,6,No,M Chinnaswamy
+8,6,6,Dhoni,Boult,4,No,Eden Gardens
+8,7,1,Rayudu,Chahar,3,No,Narendra Modi Stadium
+8,7,2,Moeen Ali,Archer,3,No,MA Chidambaram
+8,7,3,Rayudu,Bumrah,3,No,MA Chidambaram
+8,7,4,Moeen Ali,Patel,0,No,Rajiv Gandhi Stadium
+8,7,5,Moeen Ali,Patel,4,No,MA Chidambaram
+8,7,6,Rahul,Chahar,1,No,Narendra Modi Stadium
+8,8,1,Conway,Saini,1,No,Eden Gardens
+8,8,2,Jadeja,Patel,6,No,Narendra Modi Stadium
+8,8,3,Dhoni,Thakur,3,No,Wankhede
+8,8,4,Dhoni,Jamieson,3,No,MA Chidambaram
+8,8,5,Rayudu,Thakur,3,No,MA Chidambaram
+8,8,6,Rahul,Saini,6,No,Wankhede
+8,9,1,Dhoni,Rahul,0,Bowled,Wankhede
+8,9,2,Moeen Ali,Saini,0,Bowled,MA Chidambaram
+8,9,3,Jadeja,Archer,4,No,Rajiv Gandhi Stadium
+8,9,4,Jadeja,Saini,3,No,Narendra Modi Stadium
+8,9,5,Moeen Ali,Jamieson,0,Caught,Narendra Modi Stadium
+8,9,6,Mishra,Chahar,2,No,Wankhede
+8,10,1,Rahul,Saini,0,Caught,Wankhede
+8,10,2,Moeen Ali,Patel,4,No,MA Chidambaram
+8,10,3,Vijay,Saini,6,No,Wankhede
+8,10,4,Moeen Ali,Thakur,1,No,MA Chidambaram
+8,10,5,Rayudu,Bumrah,2,No,Rajiv Gandhi Stadium
+8,10,6,Dhoni,Patel,4,No,Eden Gardens
+8,11,1,Rahul,Boult,1,No,Narendra Modi Stadium
+8,11,2,Vijay,Chahar,0,Caught,Eden Gardens
+8,11,3,Rayudu,Thakur,0,LBW,Narendra Modi Stadium
+8,11,4,Dhoni,Chahar,1,No,M Chinnaswamy
+8,11,5,Jadeja,Boult,6,No,MA Chidambaram
+8,11,6,Gaikwad,Jamieson,6,No,Wankhede
+8,12,1,Vijay,Rahul,3,No,Eden Gardens
+8,12,2,Vijay,Rahul,6,No,Wankhede
+8,12,3,Mishra,Thakur,4,No,Wankhede
+8,12,4,Rayudu,Archer,1,No,Rajiv Gandhi Stadium
+8,12,5,Ruturaj,Bumrah,3,No,Wankhede
+8,12,6,Moeen Ali,Thakur,3,No,M Chinnaswamy
+8,13,1,Gaikwad,Chahar,0,No,Rajiv Gandhi Stadium
+8,13,2,Vijay,Bumrah,3,No,Wankhede
+8,13,3,Dhoni,Rahul,1,No,Wankhede
+8,13,4,Dhoni,Archer,1,No,MA Chidambaram
+8,13,5,Moeen Ali,Shami,0,Caught,M Chinnaswamy
+8,13,6,Vijay,Boult,1,No,Wankhede
+8,14,1,Gaikwad,Rahul,0,No,Wankhede
+8,14,2,Moeen Ali,Boult,2,No,M Chinnaswamy
+8,14,3,Rahul,Bumrah,4,No,Narendra Modi Stadium
+8,14,4,Rayudu,Shami,0,Bowled,MA Chidambaram
+8,14,5,Dhoni,Thakur,4,No,Eden Gardens
+8,14,6,Mishra,Bumrah,2,No,Wankhede
+8,15,1,Gaikwad,Saini,1,No,M Chinnaswamy
+8,15,2,Mishra,Patel,4,No,M Chinnaswamy
+8,15,3,Mishra,Rahul,6,No,Rajiv Gandhi Stadium
+8,15,4,Moeen Ali,Saini,2,No,MA Chidambaram
+8,15,5,Jadeja,Jamieson,4,No,M Chinnaswamy
+8,15,6,Rahul,Chahar,3,No,Eden Gardens
+8,16,1,Mishra,Saini,4,No,Eden Gardens
+8,16,2,Jadeja,Jamieson,2,No,M Chinnaswamy
+8,16,3,Dhoni,Thakur,0,No,Narendra Modi Stadium
+8,16,4,Dhoni,Chahar,2,No,Rajiv Gandhi Stadium
+8,16,5,Vijay,Saini,2,No,M Chinnaswamy
+8,16,6,Gaikwad,Jamieson,1,No,Wankhede
+8,17,1,Conway,Archer,2,No,MA Chidambaram
+8,17,2,Conway,Bumrah,0,Caught,Narendra Modi Stadium
+8,17,3,Moeen Ali,Thakur,4,No,Eden Gardens
+8,17,4,Jadeja,Boult,2,No,M Chinnaswamy
+8,17,5,Moeen Ali,Thakur,6,No,M Chinnaswamy
+8,17,6,Jadeja,Patel,1,No,M Chinnaswamy
+8,18,1,Rahul,Thakur,2,No,M Chinnaswamy
+8,18,2,Moeen Ali,Shami,2,No,Rajiv Gandhi Stadium
+8,18,3,Vijay,Shami,3,No,Wankhede
+8,18,4,Rahul,Shami,6,No,Eden Gardens
+8,18,5,Rayudu,Archer,0,LBW,Rajiv Gandhi Stadium
+8,18,6,Moeen Ali,Patel,0,Run Out,Rajiv Gandhi Stadium
+8,19,1,Moeen Ali,Archer,2,No,Rajiv Gandhi Stadium
+8,19,2,Vijay,Saini,4,No,Eden Gardens
+8,19,3,Mishra,Patel,2,No,MA Chidambaram
+8,19,4,Dhoni,Bumrah,0,No,MA Chidambaram
+8,19,5,Vijay,Patel,0,No,Narendra Modi Stadium
+8,19,6,Ruturaj,Jamieson,3,No,Rajiv Gandhi Stadium
+8,20,1,Rahul,Rahul,4,No,Wankhede
+8,20,2,Moeen Ali,Thakur,2,No,MA Chidambaram
+8,20,3,Ruturaj,Chahar,3,No,Rajiv Gandhi Stadium
+8,20,4,Mishra,Patel,6,No,Eden Gardens
+8,20,5,Gaikwad,Boult,4,No,Eden Gardens
+8,20,6,Jadeja,Boult,4,No,Eden Gardens
+9,1,1,Conway,Archer,4,No,Eden Gardens
+9,1,2,Rahul,Archer,2,No,MA Chidambaram
+9,1,3,Mishra,Chahar,2,No,Eden Gardens
+9,1,4,Rayudu,Thakur,2,No,Wankhede
+9,1,5,Moeen Ali,Archer,0,No,Rajiv Gandhi Stadium
+9,1,6,Ruturaj,Patel,3,No,Narendra Modi Stadium
+9,2,1,Jadeja,Shami,1,No,Rajiv Gandhi Stadium
+9,2,2,Vijay,Thakur,1,No,Rajiv Gandhi Stadium
+9,2,3,Dhoni,Shami,2,No,M Chinnaswamy
+9,2,4,Rayudu,Shami,6,No,M Chinnaswamy
+9,2,5,Jadeja,Rahul,6,No,Wankhede
+9,2,6,Vijay,Jamieson,6,No,Rajiv Gandhi Stadium
+9,3,1,Rahul,Bumrah,2,No,M Chinnaswamy
+9,3,2,Vijay,Chahar,6,No,Narendra Modi Stadium
+9,3,3,Conway,Thakur,3,No,Eden Gardens
+9,3,4,Ruturaj,Saini,2,No,Narendra Modi Stadium
+9,3,5,Jadeja,Boult,3,No,Narendra Modi Stadium
+9,3,6,Gaikwad,Patel,0,No,Rajiv Gandhi Stadium
+9,4,1,Mishra,Shami,2,No,Rajiv Gandhi Stadium
+9,4,2,Rayudu,Rahul,1,No,Wankhede
+9,4,3,Gaikwad,Saini,4,No,Wankhede
+9,4,4,Moeen Ali,Chahar,6,No,Rajiv Gandhi Stadium
+9,4,5,Rahul,Boult,6,No,MA Chidambaram
+9,4,6,Gaikwad,Chahar,3,No,Wankhede
+9,5,1,Mishra,Archer,6,No,Wankhede
+9,5,2,Gaikwad,Rahul,1,No,MA Chidambaram
+9,5,3,Rayudu,Saini,4,No,M Chinnaswamy
+9,5,4,Conway,Bumrah,6,No,Wankhede
+9,5,5,Ruturaj,Bumrah,3,No,Eden Gardens
+9,5,6,Moeen Ali,Jamieson,1,No,Narendra Modi Stadium
+9,6,1,Rayudu,Saini,2,No,Rajiv Gandhi Stadium
+9,6,2,Mishra,Patel,6,No,Wankhede
+9,6,3,Vijay,Shami,4,No,Wankhede
+9,6,4,Mishra,Patel,3,No,Eden Gardens
+9,6,5,Moeen Ali,Patel,0,Caught,M Chinnaswamy
+9,6,6,Rahul,Thakur,0,LBW,Rajiv Gandhi Stadium
+9,7,1,Ruturaj,Thakur,3,No,Rajiv Gandhi Stadium
+9,7,2,Rayudu,Rahul,4,No,M Chinnaswamy
+9,7,3,Jadeja,Saini,2,No,M Chinnaswamy
+9,7,4,Jadeja,Boult,1,No,Narendra Modi Stadium
+9,7,5,Gaikwad,Patel,0,Caught,Eden Gardens
+9,7,6,Ruturaj,Rahul,2,No,Wankhede
+9,8,1,Dhoni,Chahar,3,No,Narendra Modi Stadium
+9,8,2,Vijay,Thakur,6,No,M Chinnaswamy
+9,8,3,Mishra,Bumrah,4,No,M Chinnaswamy
+9,8,4,Ruturaj,Saini,6,No,Wankhede
+9,8,5,Vijay,Saini,6,No,MA Chidambaram
+9,8,6,Moeen Ali,Chahar,2,No,MA Chidambaram
+9,9,1,Rayudu,Patel,1,No,MA Chidambaram
+9,9,2,Vijay,Saini,1,No,Narendra Modi Stadium
+9,9,3,Dhoni,Boult,2,No,M Chinnaswamy
+9,9,4,Rahul,Saini,0,LBW,Narendra Modi Stadium
+9,9,5,Ruturaj,Rahul,4,No,Narendra Modi Stadium
+9,9,6,Vijay,Patel,1,No,Rajiv Gandhi Stadium
+9,10,1,Dhoni,Archer,4,No,Narendra Modi Stadium
+9,10,2,Dhoni,Patel,3,No,M Chinnaswamy
+9,10,3,Dhoni,Jamieson,2,No,Wankhede
+9,10,4,Mishra,Chahar,4,No,Eden Gardens
+9,10,5,Dhoni,Boult,0,Run Out,M Chinnaswamy
+9,10,6,Ruturaj,Thakur,6,No,Eden Gardens
+9,11,1,Vijay,Archer,3,No,Wankhede
+9,11,2,Rayudu,Jamieson,0,LBW,Eden Gardens
+9,11,3,Dhoni,Saini,2,No,Rajiv Gandhi Stadium
+9,11,4,Jadeja,Bumrah,3,No,Wankhede
+9,11,5,Conway,Jamieson,6,No,Eden Gardens
+9,11,6,Mishra,Chahar,1,No,M Chinnaswamy
+9,12,1,Rayudu,Patel,2,No,Narendra Modi Stadium
+9,12,2,Vijay,Jamieson,0,Caught,Wankhede
+9,12,3,Vijay,Patel,4,No,Narendra Modi Stadium
+9,12,4,Moeen Ali,Chahar,3,No,MA Chidambaram
+9,12,5,Jadeja,Boult,0,Bowled,Narendra Modi Stadium
+9,12,6,Gaikwad,Shami,0,Caught,Rajiv Gandhi Stadium
+9,13,1,Jadeja,Bumrah,4,No,MA Chidambaram
+9,13,2,Rahul,Rahul,3,No,Rajiv Gandhi Stadium
+9,13,3,Rahul,Thakur,0,Bowled,Wankhede
+9,13,4,Conway,Chahar,0,Bowled,MA Chidambaram
+9,13,5,Conway,Patel,1,No,Eden Gardens
+9,13,6,Vijay,Boult,6,No,Narendra Modi Stadium
+9,14,1,Ruturaj,Patel,1,No,Eden Gardens
+9,14,2,Rahul,Thakur,4,No,M Chinnaswamy
+9,14,3,Jadeja,Patel,3,No,M Chinnaswamy
+9,14,4,Rayudu,Rahul,0,LBW,MA Chidambaram
+9,14,5,Jadeja,Bumrah,6,No,Eden Gardens
+9,14,6,Jadeja,Archer,3,No,Wankhede
+9,15,1,Ruturaj,Shami,3,No,Rajiv Gandhi Stadium
+9,15,2,Dhoni,Jamieson,3,No,M Chinnaswamy
+9,15,3,Rahul,Archer,4,No,Narendra Modi Stadium
+9,15,4,Gaikwad,Bumrah,6,No,MA Chidambaram
+9,15,5,Rayudu,Bumrah,1,No,Rajiv Gandhi Stadium
+9,15,6,Dhoni,Archer,4,No,Rajiv Gandhi Stadium
+9,16,1,Vijay,Jamieson,3,No,Wankhede
+9,16,2,Vijay,Boult,6,No,M Chinnaswamy
+9,16,3,Mishra,Rahul,4,No,Wankhede
+9,16,4,Rahul,Saini,2,No,M Chinnaswamy
+9,16,5,Moeen Ali,Boult,1,No,Eden Gardens
+9,16,6,Vijay,Archer,2,No,Rajiv Gandhi Stadium
+9,17,1,Vijay,Archer,6,No,Eden Gardens
+9,17,2,Vijay,Saini,3,No,Rajiv Gandhi Stadium
+9,17,3,Ruturaj,Saini,4,No,Narendra Modi Stadium
+9,17,4,Ruturaj,Chahar,1,No,Narendra Modi Stadium
+9,17,5,Dhoni,Patel,0,Run Out,Narendra Modi Stadium
+9,17,6,Conway,Chahar,2,No,M Chinnaswamy
+9,18,1,Vijay,Thakur,1,No,Eden Gardens
+9,18,2,Mishra,Saini,1,No,Wankhede
+9,18,3,Ruturaj,Rahul,1,No,Wankhede
+9,18,4,Gaikwad,Bumrah,3,No,Eden Gardens
+9,18,5,Dhoni,Patel,3,No,Rajiv Gandhi Stadium
+9,18,6,Conway,Archer,6,No,Rajiv Gandhi Stadium
+9,19,1,Moeen Ali,Thakur,0,Run Out,Rajiv Gandhi Stadium
+9,19,2,Conway,Rahul,3,No,Narendra Modi Stadium
+9,19,3,Dhoni,Boult,1,No,Wankhede
+9,19,4,Dhoni,Bumrah,2,No,M Chinnaswamy
+9,19,5,Rahul,Archer,6,No,Rajiv Gandhi Stadium
+9,19,6,Jadeja,Thakur,0,Run Out,Wankhede
+9,20,1,Dhoni,Chahar,0,Caught,Narendra Modi Stadium
+9,20,2,Jadeja,Boult,3,No,Rajiv Gandhi Stadium
+9,20,3,Moeen Ali,Archer,2,No,MA Chidambaram
+9,20,4,Dhoni,Bumrah,2,No,Rajiv Gandhi Stadium
+9,20,5,Jadeja,Saini,6,No,Wankhede
+9,20,6,Dhoni,Shami,1,No,M Chinnaswamy
+10,1,1,Ruturaj,Archer,4,No,Wankhede
+10,1,2,Rayudu,Patel,3,No,Wankhede
+10,1,3,Conway,Bumrah,3,No,Narendra Modi Stadium
+10,1,4,Conway,Rahul,1,No,Rajiv Gandhi Stadium
+10,1,5,Dhoni,Boult,3,No,Rajiv Gandhi Stadium
+10,1,6,Rayudu,Archer,4,No,Rajiv Gandhi Stadium
+10,2,1,Moeen Ali,Archer,1,No,M Chinnaswamy
+10,2,2,Ruturaj,Saini,3,No,Wankhede
+10,2,3,Mishra,Archer,6,No,M Chinnaswamy
+10,2,4,Ruturaj,Rahul,2,No,Rajiv Gandhi Stadium
+10,2,5,Vijay,Patel,0,Caught,Wankhede
+10,2,6,Gaikwad,Saini,1,No,Rajiv Gandhi Stadium
+10,3,1,Rahul,Shami,4,No,Narendra Modi Stadium
+10,3,2,Rayudu,Boult,6,No,M Chinnaswamy
+10,3,3,Mishra,Shami,2,No,Eden Gardens
+10,3,4,Jadeja,Patel,2,No,Rajiv Gandhi Stadium
+10,3,5,Gaikwad,Boult,3,No,Narendra Modi Stadium
+10,3,6,Ruturaj,Chahar,0,LBW,Wankhede
+10,4,1,Rayudu,Jamieson,1,No,Rajiv Gandhi Stadium
+10,4,2,Moeen Ali,Archer,4,No,MA Chidambaram
+10,4,3,Dhoni,Jamieson,4,No,Eden Gardens
+10,4,4,Conway,Chahar,2,No,Wankhede
+10,4,5,Gaikwad,Bumrah,4,No,Rajiv Gandhi Stadium
+10,4,6,Conway,Patel,0,Bowled,MA Chidambaram
+10,5,1,Dhoni,Patel,4,No,Narendra Modi Stadium
+10,5,2,Jadeja,Saini,4,No,Rajiv Gandhi Stadium
+10,5,3,Ruturaj,Patel,3,No,M Chinnaswamy
+10,5,4,Vijay,Shami,0,Bowled,Wankhede
+10,5,5,Gaikwad,Rahul,2,No,Narendra Modi Stadium
+10,5,6,Dhoni,Rahul,1,No,Wankhede
+10,6,1,Vijay,Jamieson,2,No,Narendra Modi Stadium
+10,6,2,Conway,Chahar,4,No,Wankhede
+10,6,3,Dhoni,Archer,3,No,MA Chidambaram
+10,6,4,Mishra,Thakur,4,No,M Chinnaswamy
+10,6,5,Conway,Boult,6,No,Wankhede
+10,6,6,Dhoni,Bumrah,2,No,M Chinnaswamy
+10,7,1,Dhoni,Boult,2,No,Eden Gardens
+10,7,2,Dhoni,Shami,3,No,Wankhede
+10,7,3,Mishra,Boult,0,Caught,Eden Gardens
+10,7,4,Rahul,Thakur,3,No,MA Chidambaram
+10,7,5,Dhoni,Shami,2,No,Narendra Modi Stadium
+10,7,6,Rahul,Rahul,4,No,Eden Gardens
+10,8,1,Rahul,Chahar,2,No,Eden Gardens
+10,8,2,Conway,Shami,1,No,Narendra Modi Stadium
+10,8,3,Conway,Thakur,3,No,Rajiv Gandhi Stadium
+10,8,4,Rayudu,Thakur,1,No,Rajiv Gandhi Stadium
+10,8,5,Vijay,Bumrah,4,No,Narendra Modi Stadium
+10,8,6,Mishra,Chahar,6,No,Narendra Modi Stadium
+10,9,1,Jadeja,Boult,6,No,MA Chidambaram
+10,9,2,Moeen Ali,Chahar,6,No,Rajiv Gandhi Stadium
+10,9,3,Jadeja,Chahar,1,No,Wankhede
+10,9,4,Mishra,Shami,4,No,Wankhede
+10,9,5,Rahul,Patel,2,No,Narendra Modi Stadium
+10,9,6,Vijay,Bumrah,6,No,Eden Gardens
+10,10,1,Rahul,Rahul,6,No,Narendra Modi Stadium
+10,10,2,Moeen Ali,Chahar,2,No,MA Chidambaram
+10,10,3,Mishra,Rahul,1,No,Eden Gardens
+10,10,4,Rayudu,Shami,2,No,Rajiv Gandhi Stadium
+10,10,5,Rayudu,Bumrah,3,No,Narendra Modi Stadium
+10,10,6,Rayudu,Chahar,0,Run Out,Rajiv Gandhi Stadium
+10,11,1,Moeen Ali,Jamieson,3,No,Wankhede
+10,11,2,Gaikwad,Bumrah,1,No,Narendra Modi Stadium
+10,11,3,Mishra,Patel,2,No,Rajiv Gandhi Stadium
+10,11,4,Rahul,Shami,3,No,M Chinnaswamy
+10,11,5,Rayudu,Patel,6,No,Wankhede
+10,11,6,Rahul,Jamieson,3,No,Narendra Modi Stadium
+10,12,1,Vijay,Shami,1,No,Eden Gardens
+10,12,2,Jadeja,Saini,0,Caught,MA Chidambaram
+10,12,3,Mishra,Jamieson,4,No,Rajiv Gandhi Stadium
+10,12,4,Vijay,Thakur,6,No,Wankhede
+10,12,5,Rayudu,Saini,0,Run Out,Wankhede
+10,12,6,Gaikwad,Thakur,4,No,MA Chidambaram
+10,13,1,Conway,Rahul,2,No,Rajiv Gandhi Stadium
+10,13,2,Mishra,Bumrah,6,No,Eden Gardens
+10,13,3,Rayudu,Jamieson,0,LBW,Rajiv Gandhi Stadium
+10,13,4,Gaikwad,Thakur,4,No,Rajiv Gandhi Stadium
+10,13,5,Gaikwad,Patel,0,LBW,Narendra Modi Stadium
+10,13,6,Ruturaj,Shami,6,No,Eden Gardens
+10,14,1,Gaikwad,Archer,2,No,Narendra Modi Stadium
+10,14,2,Ruturaj,Boult,0,Caught,Wankhede
+10,14,3,Vijay,Rahul,2,No,Eden Gardens
+10,14,4,Gaikwad,Chahar,3,No,Eden Gardens
+10,14,5,Dhoni,Shami,2,No,Eden Gardens
+10,14,6,Jadeja,Saini,3,No,Rajiv Gandhi Stadium
+10,15,1,Gaikwad,Boult,1,No,MA Chidambaram
+10,15,2,Gaikwad,Bumrah,4,No,M Chinnaswamy
+10,15,3,Vijay,Jamieson,3,No,Rajiv Gandhi Stadium
+10,15,4,Rahul,Rahul,6,No,M Chinnaswamy
+10,15,5,Mishra,Bumrah,0,Caught,Eden Gardens
+10,15,6,Rayudu,Rahul,2,No,Eden Gardens
+10,16,1,Rayudu,Saini,2,No,M Chinnaswamy
+10,16,2,Ruturaj,Jamieson,1,No,Eden Gardens
+10,16,3,Rayudu,Bumrah,2,No,Eden Gardens
+10,16,4,Mishra,Shami,6,No,Eden Gardens
+10,16,5,Vijay,Saini,3,No,Narendra Modi Stadium
+10,16,6,Conway,Patel,3,No,Eden Gardens
+10,17,1,Moeen Ali,Chahar,6,No,M Chinnaswamy
+10,17,2,Rayudu,Archer,4,No,Eden Gardens
+10,17,3,Conway,Saini,1,No,MA Chidambaram
+10,17,4,Dhoni,Jamieson,4,No,Narendra Modi Stadium
+10,17,5,Rahul,Bumrah,3,No,Wankhede
+10,17,6,Rahul,Saini,2,No,Narendra Modi Stadium
+10,18,1,Rayudu,Thakur,3,No,Narendra Modi Stadium
+10,18,2,Rayudu,Boult,4,No,Wankhede
+10,18,3,Conway,Boult,0,Caught,Wankhede
+10,18,4,Gaikwad,Patel,6,No,Narendra Modi Stadium
+10,18,5,Jadeja,Chahar,6,No,Wankhede
+10,18,6,Jadeja,Rahul,4,No,Narendra Modi Stadium
+10,19,1,Conway,Patel,0,Caught,M Chinnaswamy
+10,19,2,Ruturaj,Bumrah,3,No,Rajiv Gandhi Stadium
+10,19,3,Conway,Archer,1,No,M Chinnaswamy
+10,19,4,Rayudu,Archer,6,No,Narendra Modi Stadium
+10,19,5,Dhoni,Shami,4,No,Eden Gardens
+10,19,6,Rayudu,Saini,0,LBW,Wankhede
+10,20,1,Ruturaj,Boult,4,No,Wankhede
+10,20,2,Rayudu,Bumrah,3,No,Wankhede
+10,20,3,Rayudu,Chahar,1,No,Wankhede
+10,20,4,Mishra,Boult,0,Caught,M Chinnaswamy
+10,20,5,Ruturaj,Saini,2,No,M Chinnaswamy
+10,20,6,Rayudu,Thakur,1,No,Eden Gardens
+11,1,1,Mishra,Patel,1,No,Wankhede
+11,1,2,Gaikwad,Boult,0,Bowled,Wankhede
+11,1,3,Rayudu,Chahar,3,No,Rajiv Gandhi Stadium
+11,1,4,Ruturaj,Archer,1,No,MA Chidambaram
+11,1,5,Jadeja,Boult,1,No,Rajiv Gandhi Stadium
+11,1,6,Rayudu,Bumrah,6,No,MA Chidambaram
+11,2,1,Rayudu,Patel,2,No,MA Chidambaram
+11,2,2,Jadeja,Chahar,6,No,Eden Gardens
+11,2,3,Jadeja,Jamieson,1,No,Eden Gardens
+11,2,4,Rahul,Rahul,3,No,M Chinnaswamy
+11,2,5,Jadeja,Jamieson,1,No,Wankhede
+11,2,6,Dhoni,Archer,1,No,Wankhede
+11,3,1,Conway,Shami,4,No,M Chinnaswamy
+11,3,2,Vijay,Rahul,1,No,Wankhede
+11,3,3,Rahul,Jamieson,1,No,Narendra Modi Stadium
+11,3,4,Jadeja,Shami,3,No,Rajiv Gandhi Stadium
+11,3,5,Rahul,Jamieson,6,No,M Chinnaswamy
+11,3,6,Moeen Ali,Boult,4,No,Eden Gardens
+11,4,1,Mishra,Jamieson,0,Caught,Narendra Modi Stadium
+11,4,2,Vijay,Chahar,3,No,Rajiv Gandhi Stadium
+11,4,3,Moeen Ali,Rahul,3,No,Eden Gardens
+11,4,4,Mishra,Saini,3,No,Narendra Modi Stadium
+11,4,5,Rayudu,Chahar,6,No,Wankhede
+11,4,6,Moeen Ali,Rahul,3,No,Rajiv Gandhi Stadium
+11,5,1,Gaikwad,Boult,4,No,Wankhede
+11,5,2,Rayudu,Archer,3,No,Rajiv Gandhi Stadium
+11,5,3,Moeen Ali,Boult,0,Run Out,MA Chidambaram
+11,5,4,Ruturaj,Archer,1,No,MA Chidambaram
+11,5,5,Mishra,Boult,1,No,Rajiv Gandhi Stadium
+11,5,6,Moeen Ali,Shami,3,No,Wankhede
+11,6,1,Mishra,Bumrah,0,Caught,Eden Gardens
+11,6,2,Dhoni,Thakur,6,No,MA Chidambaram
+11,6,3,Rahul,Jamieson,3,No,Rajiv Gandhi Stadium
+11,6,4,Gaikwad,Thakur,3,No,Narendra Modi Stadium
+11,6,5,Rayudu,Archer,2,No,Eden Gardens
+11,6,6,Dhoni,Saini,0,Bowled,Rajiv Gandhi Stadium
+11,7,1,Moeen Ali,Shami,3,No,Narendra Modi Stadium
+11,7,2,Rayudu,Thakur,4,No,Eden Gardens
+11,7,3,Mishra,Patel,0,Run Out,Wankhede
+11,7,4,Rahul,Rahul,1,No,Rajiv Gandhi Stadium
+11,7,5,Vijay,Chahar,0,Bowled,Rajiv Gandhi Stadium
+11,7,6,Dhoni,Saini,1,No,Narendra Modi Stadium
+11,8,1,Gaikwad,Thakur,0,Bowled,Wankhede
+11,8,2,Rahul,Shami,3,No,MA Chidambaram
+11,8,3,Mishra,Bumrah,2,No,M Chinnaswamy
+11,8,4,Rayudu,Rahul,1,No,M Chinnaswamy
+11,8,5,Jadeja,Bumrah,3,No,Narendra Modi Stadium
+11,8,6,Jadeja,Patel,0,Caught,Rajiv Gandhi Stadium
+11,9,1,Vijay,Saini,1,No,MA Chidambaram
+11,9,2,Rahul,Rahul,4,No,Rajiv Gandhi Stadium
+11,9,3,Moeen Ali,Thakur,1,No,Narendra Modi Stadium
+11,9,4,Mishra,Shami,4,No,M Chinnaswamy
+11,9,5,Moeen Ali,Thakur,1,No,Rajiv Gandhi Stadium
+11,9,6,Rayudu,Bumrah,3,No,Narendra Modi Stadium
+11,10,1,Vijay,Bumrah,1,No,Narendra Modi Stadium
+11,10,2,Mishra,Chahar,4,No,Rajiv Gandhi Stadium
+11,10,3,Rahul,Boult,4,No,Wankhede
+11,10,4,Moeen Ali,Boult,2,No,Wankhede
+11,10,5,Conway,Patel,1,No,M Chinnaswamy
+11,10,6,Mishra,Archer,3,No,Eden Gardens
+11,11,1,Mishra,Shami,0,Bowled,Wankhede
+11,11,2,Rahul,Thakur,6,No,Wankhede
+11,11,3,Conway,Patel,3,No,Wankhede
+11,11,4,Vijay,Shami,6,No,M Chinnaswamy
+11,11,5,Ruturaj,Rahul,0,Caught,MA Chidambaram
+11,11,6,Gaikwad,Boult,4,No,Wankhede
+11,12,1,Conway,Boult,4,No,Wankhede
+11,12,2,Jadeja,Chahar,3,No,Wankhede
+11,12,3,Dhoni,Shami,4,No,M Chinnaswamy
+11,12,4,Mishra,Bumrah,4,No,M Chinnaswamy
+11,12,5,Ruturaj,Chahar,6,No,Rajiv Gandhi Stadium
+11,12,6,Conway,Rahul,1,No,Narendra Modi Stadium
+11,13,1,Mishra,Chahar,1,No,M Chinnaswamy
+11,13,2,Moeen Ali,Jamieson,3,No,MA Chidambaram
+11,13,3,Rayudu,Archer,1,No,MA Chidambaram
+11,13,4,Mishra,Rahul,0,Bowled,MA Chidambaram
+11,13,5,Rayudu,Shami,6,No,MA Chidambaram
+11,13,6,Ruturaj,Archer,6,No,Rajiv Gandhi Stadium
+11,14,1,Gaikwad,Boult,0,Caught,Wankhede
+11,14,2,Vijay,Chahar,3,No,MA Chidambaram
+11,14,3,Gaikwad,Patel,1,No,Narendra Modi Stadium
+11,14,4,Ruturaj,Bumrah,2,No,Narendra Modi Stadium
+11,14,5,Moeen Ali,Boult,3,No,MA Chidambaram
+11,14,6,Moeen Ali,Boult,0,Run Out,M Chinnaswamy
+11,15,1,Ruturaj,Shami,0,Bowled,M Chinnaswamy
+11,15,2,Moeen Ali,Bumrah,1,No,MA Chidambaram
+11,15,3,Conway,Archer,1,No,Rajiv Gandhi Stadium
+11,15,4,Rayudu,Bumrah,2,No,M Chinnaswamy
+11,15,5,Rayudu,Thakur,3,No,Wankhede
+11,15,6,Ruturaj,Saini,4,No,Wankhede
+11,16,1,Dhoni,Archer,1,No,Rajiv Gandhi Stadium
+11,16,2,Conway,Rahul,0,Run Out,Rajiv Gandhi Stadium
+11,16,3,Jadeja,Bumrah,0,Bowled,Narendra Modi Stadium
+11,16,4,Conway,Chahar,2,No,M Chinnaswamy
+11,16,5,Mishra,Bumrah,6,No,MA Chidambaram
+11,16,6,Rayudu,Thakur,4,No,Rajiv Gandhi Stadium
+11,17,1,Dhoni,Boult,6,No,Eden Gardens
+11,17,2,Rayudu,Archer,3,No,MA Chidambaram
+11,17,3,Mishra,Bumrah,3,No,MA Chidambaram
+11,17,4,Conway,Saini,1,No,Rajiv Gandhi Stadium
+11,17,5,Gaikwad,Boult,3,No,Wankhede
+11,17,6,Dhoni,Saini,2,No,MA Chidambaram
+11,18,1,Rahul,Boult,6,No,MA Chidambaram
+11,18,2,Mishra,Jamieson,6,No,Rajiv Gandhi Stadium
+11,18,3,Vijay,Bumrah,3,No,MA Chidambaram
+11,18,4,Conway,Saini,3,No,Rajiv Gandhi Stadium
+11,18,5,Jadeja,Rahul,4,No,Wankhede
+11,18,6,Vijay,Thakur,4,No,Narendra Modi Stadium
+11,19,1,Mishra,Patel,3,No,Rajiv Gandhi Stadium
+11,19,2,Dhoni,Jamieson,0,No,Rajiv Gandhi Stadium
+11,19,3,Conway,Bumrah,6,No,Wankhede
+11,19,4,Rayudu,Saini,1,No,MA Chidambaram
+11,19,5,Mishra,Archer,6,No,MA Chidambaram
+11,19,6,Moeen Ali,Boult,3,No,Eden Gardens
+11,20,1,Gaikwad,Saini,0,Bowled,Narendra Modi Stadium
+11,20,2,Gaikwad,Bumrah,3,No,Narendra Modi Stadium
+11,20,3,Vijay,Archer,2,No,Eden Gardens
+11,20,4,Mishra,Thakur,1,No,Eden Gardens
+11,20,5,Jadeja,Thakur,3,No,Narendra Modi Stadium
+11,20,6,Gaikwad,Chahar,1,No,Wankhede
+12,1,1,Conway,Shami,4,No,Rajiv Gandhi Stadium
+12,1,2,Dhoni,Saini,0,Run Out,MA Chidambaram
+12,1,3,Jadeja,Boult,2,No,Eden Gardens
+12,1,4,Conway,Jamieson,2,No,Narendra Modi Stadium
+12,1,5,Mishra,Thakur,3,No,Narendra Modi Stadium
+12,1,6,Gaikwad,Thakur,3,No,MA Chidambaram
+12,2,1,Dhoni,Chahar,4,No,Narendra Modi Stadium
+12,2,2,Vijay,Patel,2,No,M Chinnaswamy
+12,2,3,Mishra,Boult,6,No,Rajiv Gandhi Stadium
+12,2,4,Gaikwad,Thakur,2,No,MA Chidambaram
+12,2,5,Dhoni,Patel,4,No,Wankhede
+12,2,6,Vijay,Thakur,3,No,Narendra Modi Stadium
+12,3,1,Gaikwad,Thakur,0,Caught,Wankhede
+12,3,2,Jadeja,Chahar,1,No,Wankhede
+12,3,3,Jadeja,Jamieson,2,No,Rajiv Gandhi Stadium
+12,3,4,Rayudu,Boult,2,No,Eden Gardens
+12,3,5,Rayudu,Jamieson,3,No,Narendra Modi Stadium
+12,3,6,Dhoni,Shami,4,No,Narendra Modi Stadium
+12,4,1,Vijay,Rahul,0,Bowled,Narendra Modi Stadium
+12,4,2,Conway,Archer,6,No,Wankhede
+12,4,3,Dhoni,Rahul,1,No,Eden Gardens
+12,4,4,Dhoni,Chahar,2,No,Rajiv Gandhi Stadium
+12,4,5,Ruturaj,Shami,4,No,M Chinnaswamy
+12,4,6,Rayudu,Archer,4,No,M Chinnaswamy
+12,5,1,Moeen Ali,Boult,3,No,MA Chidambaram
+12,5,2,Ruturaj,Saini,1,No,Rajiv Gandhi Stadium
+12,5,3,Jadeja,Shami,2,No,Narendra Modi Stadium
+12,5,4,Ruturaj,Jamieson,0,No,Wankhede
+12,5,5,Vijay,Chahar,1,No,Wankhede
+12,5,6,Gaikwad,Saini,3,No,MA Chidambaram
+12,6,1,Gaikwad,Saini,6,No,Wankhede
+12,6,2,Vijay,Archer,3,No,Rajiv Gandhi Stadium
+12,6,3,Jadeja,Saini,3,No,MA Chidambaram
+12,6,4,Gaikwad,Shami,3,No,Wankhede
+12,6,5,Conway,Archer,3,No,Narendra Modi Stadium
+12,6,6,Vijay,Saini,1,No,MA Chidambaram
+12,7,1,Vijay,Chahar,2,No,MA Chidambaram
+12,7,2,Dhoni,Boult,1,No,M Chinnaswamy
+12,7,3,Moeen Ali,Boult,2,No,MA Chidambaram
+12,7,4,Jadeja,Thakur,4,No,MA Chidambaram
+12,7,5,Gaikwad,Shami,2,No,M Chinnaswamy
+12,7,6,Jadeja,Saini,0,Bowled,Eden Gardens
+12,8,1,Gaikwad,Patel,1,No,M Chinnaswamy
+12,8,2,Dhoni,Thakur,2,No,Eden Gardens
+12,8,3,Dhoni,Rahul,1,No,Rajiv Gandhi Stadium
+12,8,4,Rahul,Jamieson,6,No,Rajiv Gandhi Stadium
+12,8,5,Vijay,Patel,1,No,Rajiv Gandhi Stadium
+12,8,6,Rayudu,Thakur,4,No,Eden Gardens
+12,9,1,Mishra,Saini,6,No,Eden Gardens
+12,9,2,Vijay,Boult,1,No,Wankhede
+12,9,3,Jadeja,Rahul,6,No,Narendra Modi Stadium
+12,9,4,Mishra,Patel,3,No,Narendra Modi Stadium
+12,9,5,Moeen Ali,Bumrah,2,No,Rajiv Gandhi Stadium
+12,9,6,Conway,Thakur,2,No,Eden Gardens
+12,10,1,Moeen Ali,Archer,3,No,Narendra Modi Stadium
+12,10,2,Conway,Archer,1,No,Narendra Modi Stadium
+12,10,3,Conway,Patel,1,No,M Chinnaswamy
+12,10,4,Gaikwad,Archer,0,Run Out,MA Chidambaram
+12,10,5,Ruturaj,Saini,4,No,Eden Gardens
+12,10,6,Mishra,Thakur,1,No,Narendra Modi Stadium
+12,11,1,Mishra,Archer,1,No,MA Chidambaram
+12,11,2,Moeen Ali,Chahar,1,No,MA Chidambaram
+12,11,3,Ruturaj,Shami,4,No,M Chinnaswamy
+12,11,4,Rahul,Saini,1,No,Narendra Modi Stadium
+12,11,5,Mishra,Jamieson,2,No,Wankhede
+12,11,6,Vijay,Boult,4,No,M Chinnaswamy
+12,12,1,Rahul,Thakur,2,No,Narendra Modi Stadium
+12,12,2,Gaikwad,Thakur,0,Run Out,Rajiv Gandhi Stadium
+12,12,3,Rayudu,Rahul,3,No,M Chinnaswamy
+12,12,4,Rahul,Shami,6,No,Eden Gardens
+12,12,5,Moeen Ali,Bumrah,1,No,Narendra Modi Stadium
+12,12,6,Ruturaj,Patel,3,No,MA Chidambaram
+12,13,1,Vijay,Bumrah,6,No,Narendra Modi Stadium
+12,13,2,Dhoni,Bumrah,1,No,Wankhede
+12,13,3,Vijay,Boult,3,No,Wankhede
+12,13,4,Vijay,Jamieson,0,LBW,Eden Gardens
+12,13,5,Gaikwad,Saini,4,No,Wankhede
+12,13,6,Conway,Archer,0,Caught,Wankhede
+12,14,1,Gaikwad,Shami,1,No,Eden Gardens
+12,14,2,Gaikwad,Archer,6,No,Narendra Modi Stadium
+12,14,3,Rahul,Shami,3,No,Eden Gardens
+12,14,4,Rahul,Bumrah,4,No,M Chinnaswamy
+12,14,5,Gaikwad,Boult,3,No,Narendra Modi Stadium
+12,14,6,Jadeja,Jamieson,4,No,Eden Gardens
+12,15,1,Dhoni,Rahul,2,No,M Chinnaswamy
+12,15,2,Rayudu,Bumrah,1,No,Wankhede
+12,15,3,Jadeja,Shami,0,Run Out,Eden Gardens
+12,15,4,Moeen Ali,Thakur,2,No,M Chinnaswamy
+12,15,5,Dhoni,Chahar,3,No,Wankhede
+12,15,6,Ruturaj,Bumrah,1,No,Rajiv Gandhi Stadium
+12,16,1,Ruturaj,Bumrah,6,No,Wankhede
+12,16,2,Dhoni,Archer,0,Bowled,Narendra Modi Stadium
+12,16,3,Gaikwad,Shami,1,No,Wankhede
+12,16,4,Dhoni,Chahar,6,No,M Chinnaswamy
+12,16,5,Mishra,Rahul,0,LBW,Rajiv Gandhi Stadium
+12,16,6,Rayudu,Thakur,6,No,Wankhede
+12,17,1,Vijay,Patel,0,Run Out,Wankhede
+12,17,2,Mishra,Bumrah,3,No,Narendra Modi Stadium
+12,17,3,Rayudu,Jamieson,6,No,Eden Gardens
+12,17,4,Vijay,Thakur,6,No,Rajiv Gandhi Stadium
+12,17,5,Dhoni,Bumrah,1,No,Rajiv Gandhi Stadium
+12,17,6,Ruturaj,Chahar,0,Run Out,Wankhede
+12,18,1,Mishra,Rahul,4,No,Narendra Modi Stadium
+12,18,2,Vijay,Bumrah,4,No,Wankhede
+12,18,3,Jadeja,Archer,2,No,Wankhede
+12,18,4,Rayudu,Saini,0,Run Out,MA Chidambaram
+12,18,5,Ruturaj,Thakur,6,No,M Chinnaswamy
+12,18,6,Jadeja,Shami,3,No,MA Chidambaram
+12,19,1,Conway,Jamieson,6,No,Wankhede
+12,19,2,Vijay,Archer,3,No,Eden Gardens
+12,19,3,Moeen Ali,Shami,1,No,Wankhede
+12,19,4,Ruturaj,Shami,1,No,Eden Gardens
+12,19,5,Jadeja,Rahul,0,Run Out,Rajiv Gandhi Stadium
+12,19,6,Ruturaj,Shami,0,Run Out,MA Chidambaram
+12,20,1,Ruturaj,Archer,6,No,Narendra Modi Stadium
+12,20,2,Ruturaj,Chahar,2,No,Rajiv Gandhi Stadium
+12,20,3,Rahul,Thakur,3,No,MA Chidambaram
+12,20,4,Vijay,Rahul,0,Run Out,M Chinnaswamy
+12,20,5,Dhoni,Rahul,1,No,MA Chidambaram
+12,20,6,Rayudu,Patel,0,LBW,M Chinnaswamy
+13,1,1,Rahul,Thakur,1,No,Narendra Modi Stadium
+13,1,2,Conway,Rahul,2,No,Narendra Modi Stadium
+13,1,3,Vijay,Boult,6,No,Eden Gardens
+13,1,4,Conway,Thakur,1,No,Rajiv Gandhi Stadium
+13,1,5,Ruturaj,Bumrah,2,No,Wankhede
+13,1,6,Ruturaj,Archer,6,No,Narendra Modi Stadium
+13,2,1,Rayudu,Boult,2,No,Eden Gardens
+13,2,2,Rahul,Saini,6,No,Wankhede
+13,2,3,Conway,Rahul,2,No,Wankhede
+13,2,4,Moeen Ali,Bumrah,6,No,Wankhede
+13,2,5,Vijay,Shami,6,No,Rajiv Gandhi Stadium
+13,2,6,Conway,Archer,1,No,Rajiv Gandhi Stadium
+13,3,1,Rayudu,Thakur,6,No,Eden Gardens
+13,3,2,Dhoni,Saini,4,No,Wankhede
+13,3,3,Vijay,Thakur,3,No,Wankhede
+13,3,4,Vijay,Saini,6,No,MA Chidambaram
+13,3,5,Ruturaj,Archer,0,Caught,Narendra Modi Stadium
+13,3,6,Conway,Rahul,0,Bowled,M Chinnaswamy
+13,4,1,Mishra,Chahar,2,No,Wankhede
+13,4,2,Ruturaj,Thakur,6,No,Narendra Modi Stadium
+13,4,3,Jadeja,Rahul,4,No,MA Chidambaram
+13,4,4,Mishra,Boult,3,No,Wankhede
+13,4,5,Gaikwad,Jamieson,6,No,Rajiv Gandhi Stadium
+13,4,6,Vijay,Patel,6,No,MA Chidambaram
+13,5,1,Gaikwad,Archer,3,No,Wankhede
+13,5,2,Mishra,Boult,6,No,MA Chidambaram
+13,5,3,Dhoni,Rahul,3,No,M Chinnaswamy
+13,5,4,Gaikwad,Archer,6,No,Eden Gardens
+13,5,5,Rahul,Shami,1,No,Narendra Modi Stadium
+13,5,6,Rahul,Thakur,4,No,Narendra Modi Stadium
+13,6,1,Vijay,Archer,2,No,Wankhede
+13,6,2,Jadeja,Shami,2,No,M Chinnaswamy
+13,6,3,Rahul,Rahul,1,No,Narendra Modi Stadium
+13,6,4,Mishra,Archer,6,No,Narendra Modi Stadium
+13,6,5,Ruturaj,Chahar,1,No,Wankhede
+13,6,6,Mishra,Jamieson,4,No,Wankhede
+13,7,1,Ruturaj,Boult,6,No,Narendra Modi Stadium
+13,7,2,Conway,Saini,4,No,M Chinnaswamy
+13,7,3,Jadeja,Rahul,2,No,Wankhede
+13,7,4,Gaikwad,Saini,2,No,MA Chidambaram
+13,7,5,Mishra,Boult,4,No,M Chinnaswamy
+13,7,6,Rahul,Shami,6,No,Eden Gardens
+13,8,1,Vijay,Jamieson,2,No,M Chinnaswamy
+13,8,2,Rayudu,Shami,3,No,Rajiv Gandhi Stadium
+13,8,3,Mishra,Thakur,0,LBW,Narendra Modi Stadium
+13,8,4,Mishra,Shami,4,No,Eden Gardens
+13,8,5,Moeen Ali,Patel,4,No,MA Chidambaram
+13,8,6,Jadeja,Bumrah,2,No,Eden Gardens
+13,9,1,Ruturaj,Boult,4,No,MA Chidambaram
+13,9,2,Rayudu,Boult,1,No,M Chinnaswamy
+13,9,3,Rahul,Shami,2,No,Wankhede
+13,9,4,Vijay,Bumrah,3,No,Wankhede
+13,9,5,Dhoni,Boult,4,No,MA Chidambaram
+13,9,6,Gaikwad,Thakur,3,No,Rajiv Gandhi Stadium
+13,10,1,Rayudu,Rahul,3,No,Rajiv Gandhi Stadium
+13,10,2,Conway,Shami,4,No,Wankhede
+13,10,3,Rayudu,Thakur,3,No,Narendra Modi Stadium
+13,10,4,Conway,Boult,2,No,MA Chidambaram
+13,10,5,Moeen Ali,Shami,4,No,Rajiv Gandhi Stadium
+13,10,6,Rayudu,Patel,6,No,Rajiv Gandhi Stadium
+13,11,1,Dhoni,Saini,3,No,MA Chidambaram
+13,11,2,Dhoni,Archer,3,No,Rajiv Gandhi Stadium
+13,11,3,Jadeja,Rahul,2,No,MA Chidambaram
+13,11,4,Ruturaj,Jamieson,4,No,MA Chidambaram
+13,11,5,Mishra,Chahar,0,Bowled,Narendra Modi Stadium
+13,11,6,Ruturaj,Shami,6,No,Rajiv Gandhi Stadium
+13,12,1,Vijay,Thakur,6,No,Narendra Modi Stadium
+13,12,2,Dhoni,Thakur,4,No,Narendra Modi Stadium
+13,12,3,Moeen Ali,Archer,4,No,M Chinnaswamy
+13,12,4,Dhoni,Patel,0,No,MA Chidambaram
+13,12,5,Dhoni,Patel,6,No,Rajiv Gandhi Stadium
+13,12,6,Gaikwad,Jamieson,4,No,Eden Gardens
+13,13,1,Conway,Archer,2,No,MA Chidambaram
+13,13,2,Rayudu,Archer,3,No,Wankhede
+13,13,3,Jadeja,Bumrah,0,Caught,Eden Gardens
+13,13,4,Dhoni,Saini,0,Run Out,M Chinnaswamy
+13,13,5,Vijay,Rahul,3,No,M Chinnaswamy
+13,13,6,Rahul,Rahul,3,No,Eden Gardens
+13,14,1,Rayudu,Boult,4,No,M Chinnaswamy
+13,14,2,Conway,Saini,0,Bowled,Narendra Modi Stadium
+13,14,3,Mishra,Jamieson,3,No,MA Chidambaram
+13,14,4,Gaikwad,Thakur,0,Bowled,Wankhede
+13,14,5,Vijay,Rahul,0,Bowled,Rajiv Gandhi Stadium
+13,14,6,Mishra,Boult,0,No,M Chinnaswamy
+13,15,1,Moeen Ali,Jamieson,1,No,M Chinnaswamy
+13,15,2,Rayudu,Rahul,2,No,Wankhede
+13,15,3,Gaikwad,Thakur,2,No,MA Chidambaram
+13,15,4,Mishra,Jamieson,1,No,Narendra Modi Stadium
+13,15,5,Moeen Ali,Rahul,6,No,Narendra Modi Stadium
+13,15,6,Rahul,Saini,0,No,Wankhede
+13,16,1,Conway,Bumrah,2,No,M Chinnaswamy
+13,16,2,Rayudu,Chahar,0,LBW,Narendra Modi Stadium
+13,16,3,Dhoni,Rahul,3,No,M Chinnaswamy
+13,16,4,Gaikwad,Bumrah,1,No,Wankhede
+13,16,5,Rayudu,Jamieson,1,No,Rajiv Gandhi Stadium
+13,16,6,Conway,Patel,1,No,M Chinnaswamy
+13,17,1,Moeen Ali,Thakur,6,No,Narendra Modi Stadium
+13,17,2,Jadeja,Thakur,1,No,Narendra Modi Stadium
+13,17,3,Conway,Saini,1,No,MA Chidambaram
+13,17,4,Jadeja,Archer,1,No,Narendra Modi Stadium
+13,17,5,Dhoni,Shami,4,No,Wankhede
+13,17,6,Mishra,Boult,3,No,Wankhede
+13,18,1,Gaikwad,Bumrah,4,No,MA Chidambaram
+13,18,2,Rahul,Boult,3,No,Eden Gardens
+13,18,3,Jadeja,Jamieson,0,Caught,MA Chidambaram
+13,18,4,Vijay,Saini,4,No,Eden Gardens
+13,18,5,Dhoni,Bumrah,4,No,Eden Gardens
+13,18,6,Vijay,Bumrah,2,No,Narendra Modi Stadium
+13,19,1,Rahul,Thakur,4,No,M Chinnaswamy
+13,19,2,Dhoni,Thakur,4,No,Narendra Modi Stadium
+13,19,3,Moeen Ali,Patel,4,No,MA Chidambaram
+13,19,4,Rayudu,Archer,1,No,Rajiv Gandhi Stadium
+13,19,5,Ruturaj,Jamieson,6,No,Narendra Modi Stadium
+13,19,6,Moeen Ali,Bumrah,1,No,MA Chidambaram
+13,20,1,Moeen Ali,Bumrah,0,Run Out,Rajiv Gandhi Stadium
+13,20,2,Ruturaj,Patel,4,No,MA Chidambaram
+13,20,3,Gaikwad,Archer,0,LBW,Wankhede
+13,20,4,Dhoni,Saini,3,No,Rajiv Gandhi Stadium
+13,20,5,Dhoni,Chahar,1,No,MA Chidambaram
+13,20,6,Jadeja,Archer,2,No,Eden Gardens
+14,1,1,Gaikwad,Rahul,3,No,MA Chidambaram
+14,1,2,Mishra,Patel,6,No,Rajiv Gandhi Stadium
+14,1,3,Vijay,Saini,0,Bowled,Rajiv Gandhi Stadium
+14,1,4,Dhoni,Thakur,4,No,MA Chidambaram
+14,1,5,Dhoni,Archer,0,No,MA Chidambaram
+14,1,6,Gaikwad,Saini,1,No,Rajiv Gandhi Stadium
+14,2,1,Rayudu,Archer,1,No,Wankhede
+14,2,2,Mishra,Boult,3,No,Eden Gardens
+14,2,3,Conway,Boult,1,No,MA Chidambaram
+14,2,4,Rahul,Patel,1,No,Eden Gardens
+14,2,5,Gaikwad,Thakur,4,No,Wankhede
+14,2,6,Jadeja,Boult,1,No,Wankhede
+14,3,1,Gaikwad,Saini,3,No,M Chinnaswamy
+14,3,2,Gaikwad,Bumrah,1,No,M Chinnaswamy
+14,3,3,Gaikwad,Jamieson,3,No,Eden Gardens
+14,3,4,Rahul,Saini,2,No,MA Chidambaram
+14,3,5,Conway,Patel,2,No,Narendra Modi Stadium
+14,3,6,Dhoni,Chahar,3,No,Rajiv Gandhi Stadium
+14,4,1,Conway,Jamieson,0,Run Out,Wankhede
+14,4,2,Ruturaj,Boult,3,No,Eden Gardens
+14,4,3,Dhoni,Jamieson,1,No,M Chinnaswamy
+14,4,4,Rayudu,Boult,6,No,Eden Gardens
+14,4,5,Moeen Ali,Shami,4,No,M Chinnaswamy
+14,4,6,Jadeja,Thakur,1,No,Eden Gardens
+14,5,1,Moeen Ali,Patel,6,No,M Chinnaswamy
+14,5,2,Conway,Archer,2,No,MA Chidambaram
+14,5,3,Ruturaj,Jamieson,6,No,MA Chidambaram
+14,5,4,Vijay,Bumrah,0,No,Eden Gardens
+14,5,5,Mishra,Thakur,2,No,Wankhede
+14,5,6,Moeen Ali,Jamieson,6,No,MA Chidambaram
+14,6,1,Mishra,Thakur,4,No,Narendra Modi Stadium
+14,6,2,Jadeja,Saini,6,No,Wankhede
+14,6,3,Rayudu,Bumrah,4,No,M Chinnaswamy
+14,6,4,Mishra,Jamieson,4,No,M Chinnaswamy
+14,6,5,Gaikwad,Boult,4,No,Wankhede
+14,6,6,Mishra,Chahar,0,No,Wankhede
+14,7,1,Vijay,Bumrah,3,No,Narendra Modi Stadium
+14,7,2,Dhoni,Boult,0,No,MA Chidambaram
+14,7,3,Ruturaj,Rahul,1,No,Eden Gardens
+14,7,4,Rayudu,Patel,3,No,M Chinnaswamy
+14,7,5,Mishra,Archer,1,No,Rajiv Gandhi Stadium
+14,7,6,Rahul,Rahul,4,No,Eden Gardens
+14,8,1,Rayudu,Saini,4,No,M Chinnaswamy
+14,8,2,Vijay,Archer,4,No,Rajiv Gandhi Stadium
+14,8,3,Ruturaj,Archer,6,No,Narendra Modi Stadium
+14,8,4,Dhoni,Chahar,3,No,Eden Gardens
+14,8,5,Moeen Ali,Boult,6,No,Rajiv Gandhi Stadium
+14,8,6,Gaikwad,Thakur,2,No,MA Chidambaram
+14,9,1,Jadeja,Boult,3,No,M Chinnaswamy
+14,9,2,Conway,Saini,0,Run Out,Wankhede
+14,9,3,Jadeja,Shami,1,No,M Chinnaswamy
+14,9,4,Vijay,Jamieson,0,Bowled,Wankhede
+14,9,5,Gaikwad,Shami,2,No,Eden Gardens
+14,9,6,Moeen Ali,Shami,1,No,Narendra Modi Stadium
+14,10,1,Vijay,Shami,3,No,MA Chidambaram
+14,10,2,Rayudu,Saini,1,No,M Chinnaswamy
+14,10,3,Dhoni,Saini,0,Run Out,Wankhede
+14,10,4,Ruturaj,Bumrah,0,No,MA Chidambaram
+14,10,5,Rahul,Patel,2,No,Narendra Modi Stadium
+14,10,6,Rayudu,Archer,3,No,Narendra Modi Stadium
+14,11,1,Mishra,Jamieson,1,No,Eden Gardens
+14,11,2,Jadeja,Boult,0,Caught,Rajiv Gandhi Stadium
+14,11,3,Mishra,Boult,2,No,MA Chidambaram
+14,11,4,Vijay,Thakur,0,LBW,MA Chidambaram
+14,11,5,Ruturaj,Shami,6,No,Wankhede
+14,11,6,Gaikwad,Rahul,1,No,Narendra Modi Stadium
+14,12,1,Rayudu,Rahul,3,No,Narendra Modi Stadium
+14,12,2,Gaikwad,Shami,1,No,Rajiv Gandhi Stadium
+14,12,3,Rahul,Saini,1,No,M Chinnaswamy
+14,12,4,Conway,Bumrah,1,No,Eden Gardens
+14,12,5,Mishra,Saini,6,No,Eden Gardens
+14,12,6,Conway,Shami,0,No,MA Chidambaram
+14,13,1,Rahul,Archer,6,No,Rajiv Gandhi Stadium
+14,13,2,Conway,Jamieson,0,LBW,Narendra Modi Stadium
+14,13,3,Rahul,Patel,0,LBW,Rajiv Gandhi Stadium
+14,13,4,Rayudu,Shami,6,No,Wankhede
+14,13,5,Mishra,Chahar,2,No,Rajiv Gandhi Stadium
+14,13,6,Gaikwad,Bumrah,2,No,Narendra Modi Stadium
+14,14,1,Conway,Saini,4,No,M Chinnaswamy
+14,14,2,Jadeja,Boult,1,No,Wankhede
+14,14,3,Jadeja,Jamieson,6,No,Narendra Modi Stadium
+14,14,4,Vijay,Bumrah,4,No,Wankhede
+14,14,5,Vijay,Boult,1,No,Narendra Modi Stadium
+14,14,6,Conway,Saini,4,No,Wankhede
+14,15,1,Rayudu,Thakur,6,No,Rajiv Gandhi Stadium
+14,15,2,Rayudu,Patel,0,Bowled,MA Chidambaram
+14,15,3,Vijay,Rahul,4,No,MA Chidambaram
+14,15,4,Jadeja,Rahul,0,Caught,Eden Gardens
+14,15,5,Gaikwad,Jamieson,1,No,Wankhede
+14,15,6,Rahul,Saini,0,Bowled,Narendra Modi Stadium
+14,16,1,Jadeja,Thakur,3,No,MA Chidambaram
+14,16,2,Conway,Archer,6,No,Rajiv Gandhi Stadium
+14,16,3,Jadeja,Saini,1,No,Narendra Modi Stadium
+14,16,4,Dhoni,Rahul,6,No,Narendra Modi Stadium
+14,16,5,Mishra,Patel,4,No,Narendra Modi Stadium
+14,16,6,Jadeja,Shami,0,Caught,Rajiv Gandhi Stadium
+14,17,1,Ruturaj,Chahar,2,No,Rajiv Gandhi Stadium
+14,17,2,Gaikwad,Archer,3,No,Rajiv Gandhi Stadium
+14,17,3,Conway,Chahar,1,No,Rajiv Gandhi Stadium
+14,17,4,Conway,Thakur,4,No,Rajiv Gandhi Stadium
+14,17,5,Ruturaj,Rahul,1,No,Rajiv Gandhi Stadium
+14,17,6,Mishra,Shami,4,No,Rajiv Gandhi Stadium
+14,18,1,Mishra,Thakur,4,No,M Chinnaswamy
+14,18,2,Jadeja,Saini,6,No,M Chinnaswamy
+14,18,3,Mishra,Jamieson,2,No,MA Chidambaram
+14,18,4,Rahul,Chahar,2,No,Narendra Modi Stadium
+14,18,5,Gaikwad,Thakur,4,No,MA Chidambaram
+14,18,6,Rahul,Jamieson,0,LBW,MA Chidambaram
+14,19,1,Rahul,Thakur,1,No,M Chinnaswamy
+14,19,2,Rayudu,Saini,1,No,Rajiv Gandhi Stadium
+14,19,3,Ruturaj,Chahar,3,No,Narendra Modi Stadium
+14,19,4,Gaikwad,Bumrah,4,No,Rajiv Gandhi Stadium
+14,19,5,Conway,Rahul,4,No,Eden Gardens
+14,19,6,Conway,Shami,1,No,Rajiv Gandhi Stadium
+14,20,1,Conway,Shami,0,Caught,Wankhede
+14,20,2,Gaikwad,Chahar,6,No,MA Chidambaram
+14,20,3,Rayudu,Saini,1,No,Rajiv Gandhi Stadium
+14,20,4,Conway,Chahar,2,No,MA Chidambaram
+14,20,5,Gaikwad,Jamieson,6,No,Eden Gardens
+14,20,6,Mishra,Patel,2,No,MA Chidambaram
+15,1,1,Moeen Ali,Thakur,0,Bowled,Rajiv Gandhi Stadium
+15,1,2,Conway,Saini,3,No,Narendra Modi Stadium
+15,1,3,Jadeja,Shami,4,No,Narendra Modi Stadium
+15,1,4,Rahul,Jamieson,3,No,Rajiv Gandhi Stadium
+15,1,5,Rayudu,Boult,0,Bowled,M Chinnaswamy
+15,1,6,Dhoni,Thakur,4,No,Eden Gardens
+15,2,1,Ruturaj,Jamieson,4,No,Eden Gardens
+15,2,2,Ruturaj,Rahul,0,LBW,Narendra Modi Stadium
+15,2,3,Mishra,Saini,6,No,M Chinnaswamy
+15,2,4,Gaikwad,Jamieson,6,No,Wankhede
+15,2,5,Conway,Jamieson,4,No,MA Chidambaram
+15,2,6,Dhoni,Saini,2,No,Eden Gardens
+15,3,1,Moeen Ali,Thakur,4,No,Eden Gardens
+15,3,2,Dhoni,Patel,4,No,MA Chidambaram
+15,3,3,Mishra,Archer,0,Bowled,Rajiv Gandhi Stadium
+15,3,4,Vijay,Patel,6,No,MA Chidambaram
+15,3,5,Rahul,Patel,0,Run Out,M Chinnaswamy
+15,3,6,Rahul,Patel,0,No,Narendra Modi Stadium
+15,4,1,Dhoni,Bumrah,1,No,MA Chidambaram
+15,4,2,Moeen Ali,Archer,1,No,MA Chidambaram
+15,4,3,Dhoni,Chahar,0,Run Out,Narendra Modi Stadium
+15,4,4,Jadeja,Bumrah,3,No,Narendra Modi Stadium
+15,4,5,Dhoni,Jamieson,4,No,MA Chidambaram
+15,4,6,Vijay,Jamieson,1,No,Rajiv Gandhi Stadium
+15,5,1,Conway,Boult,2,No,M Chinnaswamy
+15,5,2,Gaikwad,Thakur,1,No,Rajiv Gandhi Stadium
+15,5,3,Dhoni,Rahul,3,No,Rajiv Gandhi Stadium
+15,5,4,Moeen Ali,Jamieson,2,No,Narendra Modi Stadium
+15,5,5,Vijay,Thakur,6,No,Wankhede
+15,5,6,Ruturaj,Rahul,3,No,Rajiv Gandhi Stadium
+15,6,1,Vijay,Jamieson,3,No,MA Chidambaram
+15,6,2,Mishra,Archer,6,No,Eden Gardens
+15,6,3,Mishra,Saini,1,No,Narendra Modi Stadium
+15,6,4,Rahul,Archer,1,No,M Chinnaswamy
+15,6,5,Conway,Shami,3,No,Wankhede
+15,6,6,Vijay,Boult,2,No,Wankhede
+15,7,1,Dhoni,Archer,0,No,M Chinnaswamy
+15,7,2,Jadeja,Boult,6,No,Rajiv Gandhi Stadium
+15,7,3,Rayudu,Shami,0,Caught,M Chinnaswamy
+15,7,4,Rahul,Boult,0,Bowled,Rajiv Gandhi Stadium
+15,7,5,Moeen Ali,Rahul,4,No,M Chinnaswamy
+15,7,6,Rahul,Patel,2,No,Eden Gardens
+15,8,1,Ruturaj,Thakur,2,No,Narendra Modi Stadium
+15,8,2,Jadeja,Patel,1,No,MA Chidambaram
+15,8,3,Jadeja,Bumrah,6,No,MA Chidambaram
+15,8,4,Ruturaj,Jamieson,0,Bowled,Wankhede
+15,8,5,Mishra,Shami,3,No,Eden Gardens
+15,8,6,Moeen Ali,Archer,0,Run Out,MA Chidambaram
+15,9,1,Mishra,Saini,0,Run Out,Wankhede
+15,9,2,Rayudu,Shami,4,No,MA Chidambaram
+15,9,3,Conway,Chahar,4,No,Narendra Modi Stadium
+15,9,4,Gaikwad,Boult,6,No,Narendra Modi Stadium
+15,9,5,Rahul,Rahul,2,No,Rajiv Gandhi Stadium
+15,9,6,Vijay,Jamieson,0,Run Out,M Chinnaswamy
+15,10,1,Dhoni,Chahar,4,No,Eden Gardens
+15,10,2,Ruturaj,Patel,0,Caught,M Chinnaswamy
+15,10,3,Jadeja,Bumrah,6,No,Rajiv Gandhi Stadium
+15,10,4,Gaikwad,Patel,0,No,M Chinnaswamy
+15,10,5,Dhoni,Patel,4,No,Narendra Modi Stadium
+15,10,6,Moeen Ali,Jamieson,6,No,Narendra Modi Stadium
+15,11,1,Rahul,Archer,2,No,Eden Gardens
+15,11,2,Mishra,Saini,4,No,Narendra Modi Stadium
+15,11,3,Jadeja,Boult,2,No,Wankhede
+15,11,4,Moeen Ali,Jamieson,6,No,M Chinnaswamy
+15,11,5,Rayudu,Rahul,2,No,M Chinnaswamy
+15,11,6,Rahul,Shami,3,No,Wankhede
+15,12,1,Mishra,Thakur,2,No,MA Chidambaram
+15,12,2,Gaikwad,Patel,3,No,Narendra Modi Stadium
+15,12,3,Conway,Bumrah,6,No,M Chinnaswamy
+15,12,4,Rayudu,Shami,3,No,Wankhede
+15,12,5,Moeen Ali,Rahul,2,No,M Chinnaswamy
+15,12,6,Rahul,Thakur,0,Bowled,MA Chidambaram
+15,13,1,Dhoni,Jamieson,0,LBW,Narendra Modi Stadium
+15,13,2,Ruturaj,Saini,4,No,Eden Gardens
+15,13,3,Gaikwad,Saini,1,No,Rajiv Gandhi Stadium
+15,13,4,Rahul,Bumrah,4,No,Rajiv Gandhi Stadium
+15,13,5,Ruturaj,Bumrah,6,No,Wankhede
+15,13,6,Rahul,Jamieson,0,No,Rajiv Gandhi Stadium
+15,14,1,Jadeja,Bumrah,3,No,Rajiv Gandhi Stadium
+15,14,2,Conway,Boult,1,No,M Chinnaswamy
+15,14,3,Vijay,Chahar,4,No,Wankhede
+15,14,4,Moeen Ali,Boult,1,No,Rajiv Gandhi Stadium
+15,14,5,Ruturaj,Chahar,0,Run Out,Wankhede
+15,14,6,Gaikwad,Boult,2,No,M Chinnaswamy
+15,15,1,Moeen Ali,Saini,0,LBW,M Chinnaswamy
+15,15,2,Rayudu,Shami,1,No,Wankhede
+15,15,3,Dhoni,Bumrah,0,Bowled,Narendra Modi Stadium
+15,15,4,Vijay,Jamieson,3,No,Wankhede
+15,15,5,Vijay,Patel,4,No,Narendra Modi Stadium
+15,15,6,Dhoni,Archer,0,Run Out,MA Chidambaram
+15,16,1,Vijay,Shami,4,No,Narendra Modi Stadium
+15,16,2,Vijay,Bumrah,4,No,Narendra Modi Stadium
+15,16,3,Dhoni,Thakur,0,Run Out,Wankhede
+15,16,4,Jadeja,Chahar,2,No,Narendra Modi Stadium
+15,16,5,Conway,Archer,3,No,M Chinnaswamy
+15,16,6,Rahul,Rahul,6,No,Narendra Modi Stadium
+15,17,1,Vijay,Thakur,1,No,M Chinnaswamy
+15,17,2,Dhoni,Chahar,4,No,MA Chidambaram
+15,17,3,Ruturaj,Shami,1,No,M Chinnaswamy
+15,17,4,Moeen Ali,Patel,3,No,Wankhede
+15,17,5,Moeen Ali,Archer,2,No,M Chinnaswamy
+15,17,6,Conway,Chahar,0,LBW,Rajiv Gandhi Stadium
+15,18,1,Moeen Ali,Patel,2,No,MA Chidambaram
+15,18,2,Gaikwad,Archer,2,No,Eden Gardens
+15,18,3,Dhoni,Thakur,3,No,Wankhede
+15,18,4,Moeen Ali,Shami,4,No,M Chinnaswamy
+15,18,5,Moeen Ali,Jamieson,4,No,M Chinnaswamy
+15,18,6,Mishra,Archer,4,No,Rajiv Gandhi Stadium
+15,19,1,Rayudu,Shami,6,No,MA Chidambaram
+15,19,2,Rahul,Shami,4,No,Wankhede
+15,19,3,Ruturaj,Bumrah,3,No,Rajiv Gandhi Stadium
+15,19,4,Mishra,Jamieson,6,No,M Chinnaswamy
+15,19,5,Rahul,Jamieson,6,No,Narendra Modi Stadium
+15,19,6,Ruturaj,Chahar,6,No,Narendra Modi Stadium
+15,20,1,Rahul,Chahar,6,No,M Chinnaswamy
+15,20,2,Conway,Thakur,2,No,Wankhede
+15,20,3,Jadeja,Patel,1,No,M Chinnaswamy
+15,20,4,Rayudu,Saini,3,No,Wankhede
+15,20,5,Gaikwad,Jamieson,3,No,Wankhede
+15,20,6,Conway,Rahul,4,No,MA Chidambaram
+16,1,1,Vijay,Rahul,1,No,Narendra Modi Stadium
+16,1,2,Rahul,Chahar,2,No,Eden Gardens
+16,1,3,Vijay,Thakur,6,No,Eden Gardens
+16,1,4,Jadeja,Bumrah,3,No,Eden Gardens
+16,1,5,Dhoni,Patel,1,No,Narendra Modi Stadium
+16,1,6,Conway,Rahul,2,No,MA Chidambaram
+16,2,1,Rayudu,Boult,3,No,Wankhede
+16,2,2,Conway,Boult,0,LBW,Eden Gardens
+16,2,3,Rahul,Bumrah,1,No,MA Chidambaram
+16,2,4,Dhoni,Jamieson,2,No,M Chinnaswamy
+16,2,5,Rayudu,Chahar,1,No,M Chinnaswamy
+16,2,6,Gaikwad,Rahul,0,Run Out,Wankhede
+16,3,1,Dhoni,Saini,1,No,Wankhede
+16,3,2,Vijay,Rahul,1,No,M Chinnaswamy
+16,3,3,Moeen Ali,Saini,4,No,Rajiv Gandhi Stadium
+16,3,4,Gaikwad,Rahul,3,No,M Chinnaswamy
+16,3,5,Rahul,Archer,4,No,M Chinnaswamy
+16,3,6,Rayudu,Bumrah,1,No,MA Chidambaram
+16,4,1,Vijay,Chahar,1,No,Wankhede
+16,4,2,Vijay,Jamieson,6,No,Wankhede
+16,4,3,Gaikwad,Chahar,2,No,Narendra Modi Stadium
+16,4,4,Conway,Patel,3,No,MA Chidambaram
+16,4,5,Gaikwad,Bumrah,4,No,Eden Gardens
+16,4,6,Moeen Ali,Patel,2,No,Narendra Modi Stadium
+16,5,1,Conway,Saini,2,No,Rajiv Gandhi Stadium
+16,5,2,Gaikwad,Jamieson,6,No,MA Chidambaram
+16,5,3,Moeen Ali,Thakur,0,Run Out,MA Chidambaram
+16,5,4,Rahul,Rahul,6,No,Rajiv Gandhi Stadium
+16,5,5,Dhoni,Jamieson,2,No,M Chinnaswamy
+16,5,6,Rahul,Rahul,2,No,Narendra Modi Stadium
+16,6,1,Vijay,Shami,1,No,M Chinnaswamy
+16,6,2,Rahul,Patel,3,No,Wankhede
+16,6,3,Moeen Ali,Chahar,6,No,M Chinnaswamy
+16,6,4,Vijay,Patel,4,No,Narendra Modi Stadium
+16,6,5,Rayudu,Boult,3,No,Rajiv Gandhi Stadium
+16,6,6,Conway,Saini,4,No,M Chinnaswamy
+16,7,1,Ruturaj,Thakur,1,No,Rajiv Gandhi Stadium
+16,7,2,Vijay,Patel,6,No,Wankhede
+16,7,3,Mishra,Patel,2,No,Wankhede
+16,7,4,Gaikwad,Rahul,3,No,Rajiv Gandhi Stadium
+16,7,5,Gaikwad,Chahar,2,No,Rajiv Gandhi Stadium
+16,7,6,Mishra,Boult,4,No,Narendra Modi Stadium
+16,8,1,Rayudu,Chahar,6,No,Eden Gardens
+16,8,2,Gaikwad,Patel,2,No,Narendra Modi Stadium
+16,8,3,Rahul,Archer,2,No,MA Chidambaram
+16,8,4,Mishra,Thakur,6,No,M Chinnaswamy
+16,8,5,Rayudu,Rahul,6,No,Wankhede
+16,8,6,Rayudu,Patel,2,No,MA Chidambaram
+16,9,1,Conway,Patel,6,No,Eden Gardens
+16,9,2,Vijay,Chahar,3,No,Eden Gardens
+16,9,3,Mishra,Thakur,4,No,M Chinnaswamy
+16,9,4,Rayudu,Bumrah,6,No,Rajiv Gandhi Stadium
+16,9,5,Mishra,Bumrah,2,No,Wankhede
+16,9,6,Jadeja,Chahar,0,Bowled,Eden Gardens
+16,10,1,Conway,Patel,4,No,MA Chidambaram
+16,10,2,Moeen Ali,Shami,3,No,Eden Gardens
+16,10,3,Conway,Rahul,6,No,Wankhede
+16,10,4,Conway,Saini,3,No,Rajiv Gandhi Stadium
+16,10,5,Conway,Thakur,1,No,Narendra Modi Stadium
+16,10,6,Rahul,Archer,1,No,M Chinnaswamy
+16,11,1,Jadeja,Boult,6,No,Narendra Modi Stadium
+16,11,2,Rahul,Thakur,6,No,Rajiv Gandhi Stadium
+16,11,3,Jadeja,Patel,6,No,MA Chidambaram
+16,11,4,Vijay,Bumrah,1,No,Wankhede
+16,11,5,Gaikwad,Jamieson,0,Bowled,Wankhede
+16,11,6,Dhoni,Boult,0,No,Wankhede
+16,12,1,Gaikwad,Rahul,3,No,MA Chidambaram
+16,12,2,Jadeja,Patel,2,No,Wankhede
+16,12,3,Dhoni,Jamieson,1,No,Rajiv Gandhi Stadium
+16,12,4,Conway,Bumrah,3,No,Wankhede
+16,12,5,Ruturaj,Chahar,0,No,MA Chidambaram
+16,12,6,Ruturaj,Saini,0,Run Out,MA Chidambaram
+16,13,1,Vijay,Boult,0,Caught,MA Chidambaram
+16,13,2,Mishra,Boult,2,No,Eden Gardens
+16,13,3,Dhoni,Chahar,0,No,MA Chidambaram
+16,13,4,Moeen Ali,Boult,1,No,Eden Gardens
+16,13,5,Rahul,Shami,3,No,Narendra Modi Stadium
+16,13,6,Dhoni,Thakur,4,No,M Chinnaswamy
+16,14,1,Moeen Ali,Archer,1,No,Wankhede
+16,14,2,Jadeja,Thakur,0,Bowled,MA Chidambaram
+16,14,3,Jadeja,Rahul,3,No,Narendra Modi Stadium
+16,14,4,Ruturaj,Chahar,1,No,Rajiv Gandhi Stadium
+16,14,5,Moeen Ali,Jamieson,3,No,Eden Gardens
+16,14,6,Vijay,Patel,6,No,M Chinnaswamy
+16,15,1,Gaikwad,Jamieson,2,No,Rajiv Gandhi Stadium
+16,15,2,Rayudu,Patel,2,No,M Chinnaswamy
+16,15,3,Conway,Boult,3,No,Eden Gardens
+16,15,4,Moeen Ali,Archer,6,No,Eden Gardens
+16,15,5,Ruturaj,Archer,2,No,Rajiv Gandhi Stadium
+16,15,6,Moeen Ali,Jamieson,1,No,Narendra Modi Stadium
+16,16,1,Rahul,Boult,0,Caught,M Chinnaswamy
+16,16,2,Rayudu,Saini,3,No,Rajiv Gandhi Stadium
+16,16,3,Moeen Ali,Bumrah,2,No,MA Chidambaram
+16,16,4,Rahul,Saini,2,No,Wankhede
+16,16,5,Ruturaj,Saini,3,No,MA Chidambaram
+16,16,6,Rayudu,Archer,1,No,Eden Gardens
+16,17,1,Vijay,Patel,1,No,Wankhede
+16,17,2,Jadeja,Patel,3,No,Narendra Modi Stadium
+16,17,3,Moeen Ali,Patel,0,No,Narendra Modi Stadium
+16,17,4,Rahul,Saini,3,No,Rajiv Gandhi Stadium
+16,17,5,Vijay,Bumrah,4,No,MA Chidambaram
+16,17,6,Ruturaj,Jamieson,0,Caught,Eden Gardens
+16,18,1,Jadeja,Chahar,0,No,MA Chidambaram
+16,18,2,Rayudu,Thakur,1,No,Narendra Modi Stadium
+16,18,3,Dhoni,Saini,2,No,MA Chidambaram
+16,18,4,Vijay,Jamieson,2,No,MA Chidambaram
+16,18,5,Rayudu,Patel,1,No,Eden Gardens
+16,18,6,Jadeja,Saini,6,No,Wankhede
+16,19,1,Conway,Bumrah,0,Run Out,Wankhede
+16,19,2,Rahul,Thakur,3,No,MA Chidambaram
+16,19,3,Ruturaj,Patel,6,No,Eden Gardens
+16,19,4,Mishra,Bumrah,4,No,MA Chidambaram
+16,19,5,Rahul,Bumrah,6,No,Narendra Modi Stadium
+16,19,6,Dhoni,Shami,2,No,M Chinnaswamy
+16,20,1,Dhoni,Archer,1,No,Wankhede
+16,20,2,Vijay,Archer,2,No,Eden Gardens
+16,20,3,Rahul,Boult,3,No,Rajiv Gandhi Stadium
+16,20,4,Rayudu,Archer,4,No,M Chinnaswamy
+16,20,5,Ruturaj,Boult,0,Bowled,Rajiv Gandhi Stadium
+16,20,6,Jadeja,Shami,4,No,MA Chidambaram
+17,1,1,Mishra,Saini,0,No,Wankhede
+17,1,2,Rahul,Jamieson,0,LBW,Rajiv Gandhi Stadium
+17,1,3,Conway,Chahar,1,No,Eden Gardens
+17,1,4,Rayudu,Archer,1,No,M Chinnaswamy
+17,1,5,Rayudu,Thakur,0,Caught,Rajiv Gandhi Stadium
+17,1,6,Jadeja,Shami,6,No,Narendra Modi Stadium
+17,2,1,Vijay,Chahar,2,No,Wankhede
+17,2,2,Vijay,Archer,3,No,Wankhede
+17,2,3,Gaikwad,Thakur,2,No,Eden Gardens
+17,2,4,Rahul,Archer,4,No,Rajiv Gandhi Stadium
+17,2,5,Gaikwad,Rahul,1,No,Eden Gardens
+17,2,6,Rayudu,Shami,6,No,Eden Gardens
+17,3,1,Gaikwad,Saini,0,Caught,Wankhede
+17,3,2,Rahul,Thakur,6,No,MA Chidambaram
+17,3,3,Vijay,Chahar,4,No,Rajiv Gandhi Stadium
+17,3,4,Ruturaj,Rahul,6,No,Eden Gardens
+17,3,5,Jadeja,Saini,4,No,Narendra Modi Stadium
+17,3,6,Dhoni,Thakur,4,No,Narendra Modi Stadium
+17,4,1,Jadeja,Bumrah,6,No,MA Chidambaram
+17,4,2,Vijay,Bumrah,4,No,Narendra Modi Stadium
+17,4,3,Rahul,Archer,3,No,M Chinnaswamy
+17,4,4,Jadeja,Boult,0,Caught,Eden Gardens
+17,4,5,Rahul,Rahul,2,No,Narendra Modi Stadium
+17,4,6,Rayudu,Chahar,6,No,Eden Gardens
+17,5,1,Rahul,Chahar,3,No,MA Chidambaram
+17,5,2,Vijay,Shami,6,No,Wankhede
+17,5,3,Rayudu,Boult,6,No,Rajiv Gandhi Stadium
+17,5,4,Ruturaj,Bumrah,1,No,Rajiv Gandhi Stadium
+17,5,5,Rahul,Thakur,3,No,Eden Gardens
+17,5,6,Jadeja,Jamieson,4,No,MA Chidambaram
+17,6,1,Rahul,Thakur,3,No,Wankhede
+17,6,2,Vijay,Jamieson,0,LBW,MA Chidambaram
+17,6,3,Mishra,Jamieson,4,No,Wankhede
+17,6,4,Ruturaj,Boult,3,No,Narendra Modi Stadium
+17,6,5,Conway,Archer,0,Run Out,Eden Gardens
+17,6,6,Ruturaj,Thakur,6,No,M Chinnaswamy
+17,7,1,Conway,Rahul,2,No,Narendra Modi Stadium
+17,7,2,Mishra,Bumrah,6,No,M Chinnaswamy
+17,7,3,Dhoni,Bumrah,0,No,MA Chidambaram
+17,7,4,Rayudu,Rahul,4,No,M Chinnaswamy
+17,7,5,Rahul,Patel,4,No,Rajiv Gandhi Stadium
+17,7,6,Rayudu,Patel,2,No,M Chinnaswamy
+17,8,1,Moeen Ali,Chahar,6,No,Wankhede
+17,8,2,Moeen Ali,Archer,6,No,MA Chidambaram
+17,8,3,Moeen Ali,Saini,0,No,Rajiv Gandhi Stadium
+17,8,4,Moeen Ali,Saini,0,Bowled,MA Chidambaram
+17,8,5,Dhoni,Chahar,6,No,Wankhede
+17,8,6,Gaikwad,Shami,4,No,MA Chidambaram
+17,9,1,Mishra,Shami,1,No,Rajiv Gandhi Stadium
+17,9,2,Gaikwad,Archer,3,No,Wankhede
+17,9,3,Conway,Thakur,0,LBW,Narendra Modi Stadium
+17,9,4,Ruturaj,Chahar,2,No,MA Chidambaram
+17,9,5,Conway,Archer,1,No,M Chinnaswamy
+17,9,6,Ruturaj,Shami,1,No,MA Chidambaram
+17,10,1,Gaikwad,Boult,1,No,Narendra Modi Stadium
+17,10,2,Ruturaj,Rahul,6,No,Rajiv Gandhi Stadium
+17,10,3,Conway,Thakur,2,No,Eden Gardens
+17,10,4,Jadeja,Archer,6,No,Eden Gardens
+17,10,5,Mishra,Rahul,3,No,Eden Gardens
+17,10,6,Dhoni,Jamieson,0,Run Out,Narendra Modi Stadium
+17,11,1,Jadeja,Jamieson,3,No,Wankhede
+17,11,2,Rayudu,Shami,1,No,Wankhede
+17,11,3,Moeen Ali,Jamieson,0,Bowled,M Chinnaswamy
+17,11,4,Dhoni,Bumrah,2,No,Wankhede
+17,11,5,Rahul,Archer,2,No,Wankhede
+17,11,6,Ruturaj,Rahul,3,No,Rajiv Gandhi Stadium
+17,12,1,Mishra,Rahul,4,No,Wankhede
+17,12,2,Mishra,Saini,1,No,Rajiv Gandhi Stadium
+17,12,3,Rahul,Shami,3,No,MA Chidambaram
+17,12,4,Mishra,Boult,1,No,Eden Gardens
+17,12,5,Vijay,Bumrah,2,No,Wankhede
+17,12,6,Ruturaj,Archer,2,No,M Chinnaswamy
+17,13,1,Vijay,Thakur,0,Run Out,MA Chidambaram
+17,13,2,Mishra,Saini,6,No,Wankhede
+17,13,3,Vijay,Saini,4,No,Narendra Modi Stadium
+17,13,4,Mishra,Boult,1,No,Eden Gardens
+17,13,5,Vijay,Thakur,6,No,MA Chidambaram
+17,13,6,Jadeja,Patel,4,No,Narendra Modi Stadium
+17,14,1,Mishra,Archer,3,No,Eden Gardens
+17,14,2,Rayudu,Boult,2,No,Eden Gardens
+17,14,3,Vijay,Thakur,0,LBW,M Chinnaswamy
+17,14,4,Mishra,Rahul,0,Run Out,Rajiv Gandhi Stadium
+17,14,5,Mishra,Jamieson,3,No,M Chinnaswamy
+17,14,6,Dhoni,Bumrah,0,Run Out,Wankhede
+17,15,1,Moeen Ali,Patel,4,No,Eden Gardens
+17,15,2,Mishra,Boult,3,No,Narendra Modi Stadium
+17,15,3,Jadeja,Shami,3,No,MA Chidambaram
+17,15,4,Moeen Ali,Bumrah,1,No,M Chinnaswamy
+17,15,5,Vijay,Bumrah,1,No,Eden Gardens
+17,15,6,Gaikwad,Thakur,2,No,M Chinnaswamy
+17,16,1,Rayudu,Boult,6,No,M Chinnaswamy
+17,16,2,Conway,Jamieson,1,No,Wankhede
+17,16,3,Rahul,Bumrah,2,No,M Chinnaswamy
+17,16,4,Rahul,Thakur,4,No,M Chinnaswamy
+17,16,5,Gaikwad,Archer,1,No,MA Chidambaram
+17,16,6,Vijay,Jamieson,0,LBW,MA Chidambaram
+17,17,1,Ruturaj,Boult,3,No,Rajiv Gandhi Stadium
+17,17,2,Rahul,Archer,0,Bowled,Eden Gardens
+17,17,3,Mishra,Rahul,0,LBW,Rajiv Gandhi Stadium
+17,17,4,Rahul,Jamieson,6,No,Narendra Modi Stadium
+17,17,5,Rahul,Bumrah,2,No,M Chinnaswamy
+17,17,6,Rayudu,Chahar,0,LBW,MA Chidambaram
+17,18,1,Rayudu,Bumrah,1,No,Eden Gardens
+17,18,2,Moeen Ali,Chahar,4,No,Wankhede
+17,18,3,Dhoni,Archer,0,LBW,Eden Gardens
+17,18,4,Jadeja,Boult,4,No,Rajiv Gandhi Stadium
+17,18,5,Mishra,Saini,3,No,MA Chidambaram
+17,18,6,Moeen Ali,Patel,2,No,M Chinnaswamy
+17,19,1,Vijay,Shami,6,No,Wankhede
+17,19,2,Gaikwad,Archer,2,No,M Chinnaswamy
+17,19,3,Gaikwad,Jamieson,6,No,MA Chidambaram
+17,19,4,Mishra,Saini,3,No,M Chinnaswamy
+17,19,5,Dhoni,Chahar,0,Bowled,Eden Gardens
+17,19,6,Mishra,Chahar,4,No,Eden Gardens
+17,20,1,Rayudu,Jamieson,0,Run Out,Narendra Modi Stadium
+17,20,2,Rahul,Bumrah,3,No,MA Chidambaram
+17,20,3,Rahul,Archer,2,No,M Chinnaswamy
+17,20,4,Moeen Ali,Boult,6,No,MA Chidambaram
+17,20,5,Rayudu,Thakur,4,No,MA Chidambaram
+17,20,6,Jadeja,Jamieson,6,No,Eden Gardens
+18,1,1,Rahul,Chahar,1,No,M Chinnaswamy
+18,1,2,Mishra,Shami,6,No,Rajiv Gandhi Stadium
+18,1,3,Dhoni,Chahar,1,No,Eden Gardens
+18,1,4,Conway,Shami,6,No,Wankhede
+18,1,5,Conway,Patel,1,No,Rajiv Gandhi Stadium
+18,1,6,Ruturaj,Chahar,3,No,Eden Gardens
+18,2,1,Vijay,Patel,6,No,M Chinnaswamy
+18,2,2,Moeen Ali,Archer,2,No,Rajiv Gandhi Stadium
+18,2,3,Ruturaj,Archer,6,No,Wankhede
+18,2,4,Conway,Rahul,2,No,Rajiv Gandhi Stadium
+18,2,5,Rayudu,Shami,1,No,Narendra Modi Stadium
+18,2,6,Mishra,Boult,0,No,Eden Gardens
+18,3,1,Rahul,Rahul,3,No,M Chinnaswamy
+18,3,2,Rahul,Rahul,4,No,M Chinnaswamy
+18,3,3,Rayudu,Shami,0,Run Out,Wankhede
+18,3,4,Moeen Ali,Boult,1,No,Rajiv Gandhi Stadium
+18,3,5,Mishra,Thakur,3,No,M Chinnaswamy
+18,3,6,Conway,Thakur,0,Run Out,Eden Gardens
+18,4,1,Dhoni,Boult,2,No,MA Chidambaram
+18,4,2,Gaikwad,Saini,2,No,Wankhede
+18,4,3,Ruturaj,Shami,4,No,Eden Gardens
+18,4,4,Rayudu,Shami,0,No,Rajiv Gandhi Stadium
+18,4,5,Ruturaj,Boult,6,No,M Chinnaswamy
+18,4,6,Dhoni,Boult,2,No,Wankhede
+18,5,1,Mishra,Patel,1,No,Eden Gardens
+18,5,2,Dhoni,Thakur,4,No,Wankhede
+18,5,3,Rahul,Archer,3,No,Eden Gardens
+18,5,4,Moeen Ali,Jamieson,3,No,Rajiv Gandhi Stadium
+18,5,5,Moeen Ali,Boult,2,No,M Chinnaswamy
+18,5,6,Gaikwad,Bumrah,3,No,MA Chidambaram
+18,6,1,Mishra,Thakur,3,No,Wankhede
+18,6,2,Rayudu,Rahul,0,Bowled,Narendra Modi Stadium
+18,6,3,Moeen Ali,Chahar,0,Caught,MA Chidambaram
+18,6,4,Dhoni,Shami,4,No,Rajiv Gandhi Stadium
+18,6,5,Jadeja,Bumrah,2,No,M Chinnaswamy
+18,6,6,Rayudu,Bumrah,1,No,Eden Gardens
+18,7,1,Vijay,Thakur,2,No,MA Chidambaram
+18,7,2,Dhoni,Rahul,2,No,Rajiv Gandhi Stadium
+18,7,3,Ruturaj,Saini,1,No,Rajiv Gandhi Stadium
+18,7,4,Mishra,Archer,3,No,Rajiv Gandhi Stadium
+18,7,5,Gaikwad,Jamieson,1,No,Eden Gardens
+18,7,6,Gaikwad,Boult,1,No,Wankhede
+18,8,1,Rayudu,Jamieson,1,No,M Chinnaswamy
+18,8,2,Ruturaj,Rahul,3,No,Wankhede
+18,8,3,Jadeja,Bumrah,1,No,MA Chidambaram
+18,8,4,Rahul,Patel,1,No,Wankhede
+18,8,5,Rayudu,Thakur,2,No,Narendra Modi Stadium
+18,8,6,Vijay,Patel,0,LBW,Rajiv Gandhi Stadium
+18,9,1,Mishra,Bumrah,6,No,M Chinnaswamy
+18,9,2,Gaikwad,Jamieson,1,No,MA Chidambaram
+18,9,3,Gaikwad,Bumrah,1,No,MA Chidambaram
+18,9,4,Conway,Jamieson,3,No,M Chinnaswamy
+18,9,5,Vijay,Archer,4,No,Wankhede
+18,9,6,Conway,Rahul,2,No,Narendra Modi Stadium
+18,10,1,Moeen Ali,Boult,1,No,Narendra Modi Stadium
+18,10,2,Dhoni,Chahar,2,No,Narendra Modi Stadium
+18,10,3,Gaikwad,Patel,3,No,MA Chidambaram
+18,10,4,Mishra,Thakur,2,No,Wankhede
+18,10,5,Ruturaj,Thakur,1,No,Wankhede
+18,10,6,Jadeja,Bumrah,4,No,Rajiv Gandhi Stadium
+18,11,1,Rayudu,Bumrah,4,No,M Chinnaswamy
+18,11,2,Dhoni,Bumrah,1,No,Eden Gardens
+18,11,3,Ruturaj,Bumrah,0,Caught,Rajiv Gandhi Stadium
+18,11,4,Gaikwad,Thakur,0,Caught,MA Chidambaram
+18,11,5,Rahul,Chahar,3,No,Rajiv Gandhi Stadium
+18,11,6,Dhoni,Archer,4,No,Rajiv Gandhi Stadium
+18,12,1,Ruturaj,Shami,1,No,MA Chidambaram
+18,12,2,Rayudu,Jamieson,0,LBW,Eden Gardens
+18,12,3,Mishra,Saini,3,No,Rajiv Gandhi Stadium
+18,12,4,Moeen Ali,Rahul,2,No,M Chinnaswamy
+18,12,5,Moeen Ali,Archer,4,No,MA Chidambaram
+18,12,6,Mishra,Rahul,1,No,Eden Gardens
+18,13,1,Vijay,Patel,4,No,MA Chidambaram
+18,13,2,Jadeja,Bumrah,0,Run Out,Narendra Modi Stadium
+18,13,3,Rayudu,Boult,6,No,Rajiv Gandhi Stadium
+18,13,4,Rahul,Boult,0,Caught,Eden Gardens
+18,13,5,Ruturaj,Jamieson,1,No,MA Chidambaram
+18,13,6,Conway,Saini,2,No,Narendra Modi Stadium
+18,14,1,Conway,Rahul,2,No,Wankhede
+18,14,2,Rahul,Rahul,4,No,Rajiv Gandhi Stadium
+18,14,3,Vijay,Archer,3,No,M Chinnaswamy
+18,14,4,Conway,Patel,1,No,MA Chidambaram
+18,14,5,Gaikwad,Archer,3,No,Narendra Modi Stadium
+18,14,6,Conway,Archer,0,Bowled,Rajiv Gandhi Stadium
+18,15,1,Rayudu,Saini,1,No,Rajiv Gandhi Stadium
+18,15,2,Gaikwad,Saini,3,No,MA Chidambaram
+18,15,3,Gaikwad,Thakur,0,Run Out,MA Chidambaram
+18,15,4,Rahul,Boult,2,No,Narendra Modi Stadium
+18,15,5,Rahul,Patel,4,No,Rajiv Gandhi Stadium
+18,15,6,Dhoni,Saini,4,No,Eden Gardens
+18,16,1,Vijay,Thakur,0,Bowled,M Chinnaswamy
+18,16,2,Gaikwad,Chahar,3,No,Eden Gardens
+18,16,3,Rahul,Saini,6,No,M Chinnaswamy
+18,16,4,Vijay,Saini,6,No,Eden Gardens
+18,16,5,Dhoni,Chahar,4,No,MA Chidambaram
+18,16,6,Jadeja,Chahar,0,Caught,Narendra Modi Stadium
+18,17,1,Vijay,Bumrah,2,No,MA Chidambaram
+18,17,2,Vijay,Saini,6,No,Rajiv Gandhi Stadium
+18,17,3,Ruturaj,Shami,2,No,Narendra Modi Stadium
+18,17,4,Rayudu,Rahul,4,No,Wankhede
+18,17,5,Rayudu,Chahar,6,No,Narendra Modi Stadium
+18,17,6,Rahul,Shami,1,No,Eden Gardens
+18,18,1,Moeen Ali,Thakur,4,No,Rajiv Gandhi Stadium
+18,18,2,Jadeja,Shami,3,No,Eden Gardens
+18,18,3,Rahul,Saini,0,LBW,MA Chidambaram
+18,18,4,Vijay,Jamieson,4,No,Eden Gardens
+18,18,5,Mishra,Rahul,2,No,Wankhede
+18,18,6,Mishra,Thakur,1,No,MA Chidambaram
+18,19,1,Conway,Rahul,6,No,Eden Gardens
+18,19,2,Conway,Archer,4,No,Wankhede
+18,19,3,Dhoni,Shami,2,No,MA Chidambaram
+18,19,4,Jadeja,Thakur,6,No,Wankhede
+18,19,5,Rayudu,Saini,1,No,Narendra Modi Stadium
+18,19,6,Ruturaj,Saini,6,No,M Chinnaswamy
+18,20,1,Vijay,Thakur,2,No,MA Chidambaram
+18,20,2,Gaikwad,Bumrah,3,No,M Chinnaswamy
+18,20,3,Rayudu,Jamieson,3,No,Wankhede
+18,20,4,Gaikwad,Archer,2,No,Wankhede
+18,20,5,Gaikwad,Patel,0,Run Out,Wankhede
+18,20,6,Conway,Archer,3,No,Rajiv Gandhi Stadium
+19,1,1,Conway,Patel,6,No,Rajiv Gandhi Stadium
+19,1,2,Mishra,Archer,3,No,Rajiv Gandhi Stadium
+19,1,3,Mishra,Archer,2,No,Rajiv Gandhi Stadium
+19,1,4,Conway,Archer,1,No,Rajiv Gandhi Stadium
+19,1,5,Vijay,Archer,2,No,Rajiv Gandhi Stadium
+19,1,6,Jadeja,Bumrah,6,No,MA Chidambaram
+19,2,1,Mishra,Saini,0,LBW,MA Chidambaram
+19,2,2,Moeen Ali,Patel,6,No,Wankhede
+19,2,3,Conway,Patel,1,No,Rajiv Gandhi Stadium
+19,2,4,Mishra,Rahul,1,No,MA Chidambaram
+19,2,5,Dhoni,Patel,1,No,MA Chidambaram
+19,2,6,Rahul,Saini,2,No,MA Chidambaram
+19,3,1,Dhoni,Saini,0,Caught,Rajiv Gandhi Stadium
+19,3,2,Rahul,Patel,2,No,Eden Gardens
+19,3,3,Rayudu,Thakur,0,LBW,MA Chidambaram
+19,3,4,Rayudu,Thakur,1,No,Eden Gardens
+19,3,5,Conway,Archer,6,No,Wankhede
+19,3,6,Mishra,Boult,0,LBW,Eden Gardens
+19,4,1,Jadeja,Bumrah,2,No,Wankhede
+19,4,2,Moeen Ali,Patel,1,No,Narendra Modi Stadium
+19,4,3,Dhoni,Shami,3,No,MA Chidambaram
+19,4,4,Dhoni,Chahar,2,No,M Chinnaswamy
+19,4,5,Mishra,Patel,3,No,M Chinnaswamy
+19,4,6,Rayudu,Bumrah,4,No,Rajiv Gandhi Stadium
+19,5,1,Jadeja,Bumrah,0,No,Eden Gardens
+19,5,2,Rayudu,Chahar,2,No,Narendra Modi Stadium
+19,5,3,Rahul,Thakur,1,No,M Chinnaswamy
+19,5,4,Vijay,Chahar,1,No,Narendra Modi Stadium
+19,5,5,Mishra,Boult,6,No,Wankhede
+19,5,6,Ruturaj,Patel,4,No,M Chinnaswamy
+19,6,1,Vijay,Archer,2,No,Eden Gardens
+19,6,2,Vijay,Bumrah,0,Bowled,Eden Gardens
+19,6,3,Jadeja,Chahar,3,No,Eden Gardens
+19,6,4,Rahul,Thakur,3,No,MA Chidambaram
+19,6,5,Gaikwad,Jamieson,2,No,Rajiv Gandhi Stadium
+19,6,6,Gaikwad,Archer,2,No,Wankhede
+19,7,1,Rayudu,Patel,2,No,MA Chidambaram
+19,7,2,Ruturaj,Shami,1,No,M Chinnaswamy
+19,7,3,Gaikwad,Bumrah,2,No,MA Chidambaram
+19,7,4,Dhoni,Archer,2,No,Eden Gardens
+19,7,5,Gaikwad,Jamieson,2,No,M Chinnaswamy
+19,7,6,Gaikwad,Saini,2,No,Rajiv Gandhi Stadium
+19,8,1,Mishra,Archer,6,No,Rajiv Gandhi Stadium
+19,8,2,Mishra,Chahar,4,No,Wankhede
+19,8,3,Moeen Ali,Jamieson,1,No,Wankhede
+19,8,4,Ruturaj,Bumrah,1,No,Wankhede
+19,8,5,Dhoni,Shami,1,No,MA Chidambaram
+19,8,6,Ruturaj,Thakur,4,No,M Chinnaswamy
+19,9,1,Dhoni,Rahul,3,No,Eden Gardens
+19,9,2,Conway,Jamieson,6,No,M Chinnaswamy
+19,9,3,Gaikwad,Rahul,6,No,Wankhede
+19,9,4,Rayudu,Bumrah,3,No,Narendra Modi Stadium
+19,9,5,Conway,Archer,3,No,Narendra Modi Stadium
+19,9,6,Mishra,Boult,6,No,Wankhede
+19,10,1,Conway,Boult,3,No,Narendra Modi Stadium
+19,10,2,Vijay,Jamieson,1,No,M Chinnaswamy
+19,10,3,Dhoni,Rahul,1,No,M Chinnaswamy
+19,10,4,Gaikwad,Rahul,2,No,Rajiv Gandhi Stadium
+19,10,5,Jadeja,Patel,0,Bowled,Narendra Modi Stadium
+19,10,6,Rayudu,Archer,3,No,M Chinnaswamy
+19,11,1,Dhoni,Thakur,1,No,M Chinnaswamy
+19,11,2,Conway,Shami,3,No,Rajiv Gandhi Stadium
+19,11,3,Rayudu,Thakur,6,No,M Chinnaswamy
+19,11,4,Dhoni,Patel,1,No,Rajiv Gandhi Stadium
+19,11,5,Gaikwad,Thakur,2,No,M Chinnaswamy
+19,11,6,Dhoni,Archer,1,No,Eden Gardens
+19,12,1,Mishra,Boult,0,No,Rajiv Gandhi Stadium
+19,12,2,Rahul,Boult,3,No,MA Chidambaram
+19,12,3,Mishra,Jamieson,6,No,Narendra Modi Stadium
+19,12,4,Jadeja,Jamieson,6,No,M Chinnaswamy
+19,12,5,Conway,Rahul,4,No,Eden Gardens
+19,12,6,Moeen Ali,Bumrah,4,No,MA Chidambaram
+19,13,1,Rayudu,Jamieson,4,No,M Chinnaswamy
+19,13,2,Rayudu,Jamieson,4,No,Wankhede
+19,13,3,Gaikwad,Thakur,3,No,M Chinnaswamy
+19,13,4,Vijay,Archer,3,No,Eden Gardens
+19,13,5,Dhoni,Rahul,4,No,M Chinnaswamy
+19,13,6,Mishra,Jamieson,3,No,Wankhede
+19,14,1,Vijay,Saini,2,No,Narendra Modi Stadium
+19,14,2,Dhoni,Bumrah,3,No,MA Chidambaram
+19,14,3,Rayudu,Rahul,1,No,Narendra Modi Stadium
+19,14,4,Jadeja,Shami,6,No,Wankhede
+19,14,5,Gaikwad,Thakur,4,No,M Chinnaswamy
+19,14,6,Mishra,Thakur,4,No,Eden Gardens
+19,15,1,Jadeja,Archer,6,No,M Chinnaswamy
+19,15,2,Mishra,Thakur,1,No,Rajiv Gandhi Stadium
+19,15,3,Mishra,Patel,0,Run Out,Rajiv Gandhi Stadium
+19,15,4,Jadeja,Jamieson,6,No,Wankhede
+19,15,5,Mishra,Thakur,0,Bowled,M Chinnaswamy
+19,15,6,Gaikwad,Shami,0,Caught,M Chinnaswamy
+19,16,1,Gaikwad,Jamieson,6,No,Narendra Modi Stadium
+19,16,2,Mishra,Jamieson,2,No,M Chinnaswamy
+19,16,3,Conway,Thakur,2,No,M Chinnaswamy
+19,16,4,Conway,Boult,0,LBW,MA Chidambaram
+19,16,5,Dhoni,Thakur,1,No,Eden Gardens
+19,16,6,Ruturaj,Bumrah,2,No,M Chinnaswamy
+19,17,1,Mishra,Thakur,1,No,M Chinnaswamy
+19,17,2,Moeen Ali,Bumrah,6,No,Narendra Modi Stadium
+19,17,3,Gaikwad,Bumrah,2,No,MA Chidambaram
+19,17,4,Rayudu,Jamieson,0,Bowled,Wankhede
+19,17,5,Rayudu,Patel,3,No,Wankhede
+19,17,6,Rayudu,Boult,0,No,Eden Gardens
+19,18,1,Jadeja,Saini,3,No,M Chinnaswamy
+19,18,2,Moeen Ali,Bumrah,0,Bowled,MA Chidambaram
+19,18,3,Vijay,Shami,2,No,Eden Gardens
+19,18,4,Dhoni,Jamieson,6,No,M Chinnaswamy
+19,18,5,Rayudu,Rahul,6,No,MA Chidambaram
+19,18,6,Moeen Ali,Chahar,6,No,Eden Gardens
+19,19,1,Rahul,Thakur,6,No,Rajiv Gandhi Stadium
+19,19,2,Gaikwad,Archer,0,LBW,M Chinnaswamy
+19,19,3,Rayudu,Bumrah,2,No,Eden Gardens
+19,19,4,Ruturaj,Archer,6,No,Rajiv Gandhi Stadium
+19,19,5,Jadeja,Archer,1,No,Wankhede
+19,19,6,Gaikwad,Patel,4,No,Narendra Modi Stadium
+19,20,1,Jadeja,Boult,1,No,MA Chidambaram
+19,20,2,Rahul,Thakur,4,No,Wankhede
+19,20,3,Jadeja,Rahul,4,No,Eden Gardens
+19,20,4,Vijay,Saini,3,No,M Chinnaswamy
+19,20,5,Gaikwad,Rahul,1,No,M Chinnaswamy
+19,20,6,Gaikwad,Patel,6,No,M Chinnaswamy
+20,1,1,Rayudu,Shami,1,No,MA Chidambaram
+20,1,2,Moeen Ali,Rahul,6,No,Eden Gardens
+20,1,3,Mishra,Bumrah,1,No,MA Chidambaram
+20,1,4,Rahul,Saini,2,No,Narendra Modi Stadium
+20,1,5,Dhoni,Archer,0,Bowled,M Chinnaswamy
+20,1,6,Moeen Ali,Jamieson,4,No,M Chinnaswamy
+20,2,1,Conway,Saini,3,No,Rajiv Gandhi Stadium
+20,2,2,Ruturaj,Bumrah,3,No,Narendra Modi Stadium
+20,2,3,Dhoni,Saini,6,No,Rajiv Gandhi Stadium
+20,2,4,Ruturaj,Rahul,3,No,MA Chidambaram
+20,2,5,Vijay,Chahar,4,No,Narendra Modi Stadium
+20,2,6,Jadeja,Patel,0,Bowled,Eden Gardens
+20,3,1,Mishra,Bumrah,6,No,Narendra Modi Stadium
+20,3,2,Ruturaj,Thakur,3,No,Eden Gardens
+20,3,3,Dhoni,Patel,2,No,Eden Gardens
+20,3,4,Mishra,Thakur,1,No,Narendra Modi Stadium
+20,3,5,Dhoni,Shami,6,No,Narendra Modi Stadium
+20,3,6,Rayudu,Bumrah,4,No,Narendra Modi Stadium
+20,4,1,Vijay,Thakur,6,No,Narendra Modi Stadium
+20,4,2,Dhoni,Patel,1,No,Wankhede
+20,4,3,Dhoni,Archer,6,No,Eden Gardens
+20,4,4,Dhoni,Chahar,0,Bowled,MA Chidambaram
+20,4,5,Jadeja,Jamieson,2,No,Eden Gardens
+20,4,6,Conway,Saini,0,LBW,Rajiv Gandhi Stadium
+20,5,1,Gaikwad,Jamieson,0,No,Wankhede
+20,5,2,Gaikwad,Bumrah,4,No,M Chinnaswamy
+20,5,3,Dhoni,Chahar,1,No,M Chinnaswamy
+20,5,4,Jadeja,Bumrah,4,No,Eden Gardens
+20,5,5,Gaikwad,Saini,2,No,Rajiv Gandhi Stadium
+20,5,6,Rahul,Thakur,0,Caught,Narendra Modi Stadium
+20,6,1,Jadeja,Shami,2,No,M Chinnaswamy
+20,6,2,Dhoni,Rahul,2,No,MA Chidambaram
+20,6,3,Moeen Ali,Saini,6,No,Eden Gardens
+20,6,4,Rayudu,Bumrah,3,No,Narendra Modi Stadium
+20,6,5,Rahul,Boult,2,No,Wankhede
+20,6,6,Dhoni,Patel,3,No,Rajiv Gandhi Stadium
+20,7,1,Jadeja,Bumrah,0,Caught,Narendra Modi Stadium
+20,7,2,Ruturaj,Boult,2,No,Rajiv Gandhi Stadium
+20,7,3,Moeen Ali,Archer,6,No,Rajiv Gandhi Stadium
+20,7,4,Rahul,Shami,4,No,M Chinnaswamy
+20,7,5,Mishra,Patel,4,No,MA Chidambaram
+20,7,6,Moeen Ali,Chahar,4,No,MA Chidambaram
+20,8,1,Mishra,Saini,2,No,M Chinnaswamy
+20,8,2,Conway,Boult,3,No,Narendra Modi Stadium
+20,8,3,Rahul,Jamieson,4,No,Rajiv Gandhi Stadium
+20,8,4,Mishra,Patel,3,No,Wankhede
+20,8,5,Moeen Ali,Saini,3,No,Wankhede
+20,8,6,Moeen Ali,Boult,1,No,Wankhede
+20,9,1,Rayudu,Bumrah,4,No,Rajiv Gandhi Stadium
+20,9,2,Rahul,Bumrah,4,No,MA Chidambaram
+20,9,3,Rahul,Archer,3,No,Eden Gardens
+20,9,4,Jadeja,Saini,2,No,Eden Gardens
+20,9,5,Dhoni,Shami,6,No,M Chinnaswamy
+20,9,6,Moeen Ali,Shami,6,No,MA Chidambaram
+20,10,1,Dhoni,Rahul,2,No,Narendra Modi Stadium
+20,10,2,Vijay,Jamieson,4,No,Rajiv Gandhi Stadium
+20,10,3,Ruturaj,Thakur,4,No,Wankhede
+20,10,4,Rayudu,Chahar,1,No,Narendra Modi Stadium
+20,10,5,Jadeja,Jamieson,6,No,Rajiv Gandhi Stadium
+20,10,6,Rayudu,Bumrah,3,No,Narendra Modi Stadium
+20,11,1,Gaikwad,Bumrah,6,No,Rajiv Gandhi Stadium
+20,11,2,Jadeja,Boult,3,No,Narendra Modi Stadium
+20,11,3,Ruturaj,Rahul,2,No,Eden Gardens
+20,11,4,Rahul,Patel,1,No,Eden Gardens
+20,11,5,Mishra,Chahar,1,No,Narendra Modi Stadium
+20,11,6,Conway,Jamieson,0,LBW,Eden Gardens
+20,12,1,Jadeja,Chahar,3,No,MA Chidambaram
+20,12,2,Moeen Ali,Boult,6,No,M Chinnaswamy
+20,12,3,Jadeja,Bumrah,6,No,Eden Gardens
+20,12,4,Mishra,Shami,3,No,Wankhede
+20,12,5,Ruturaj,Jamieson,3,No,MA Chidambaram
+20,12,6,Gaikwad,Thakur,2,No,Eden Gardens
+20,13,1,Ruturaj,Saini,3,No,Narendra Modi Stadium
+20,13,2,Moeen Ali,Patel,0,No,Eden Gardens
+20,13,3,Vijay,Shami,2,No,Wankhede
+20,13,4,Vijay,Thakur,0,Run Out,Wankhede
+20,13,5,Ruturaj,Thakur,1,No,Eden Gardens
+20,13,6,Vijay,Saini,3,No,M Chinnaswamy
+20,14,1,Conway,Jamieson,3,No,Rajiv Gandhi Stadium
+20,14,2,Rahul,Boult,2,No,MA Chidambaram
+20,14,3,Mishra,Rahul,4,No,MA Chidambaram
+20,14,4,Conway,Boult,4,No,Eden Gardens
+20,14,5,Gaikwad,Thakur,2,No,Eden Gardens
+20,14,6,Moeen Ali,Jamieson,2,No,Rajiv Gandhi Stadium
+20,15,1,Jadeja,Rahul,4,No,Eden Gardens
+20,15,2,Conway,Boult,3,No,MA Chidambaram
+20,15,3,Moeen Ali,Saini,3,No,MA Chidambaram
+20,15,4,Mishra,Rahul,3,No,Eden Gardens
+20,15,5,Conway,Saini,4,No,Narendra Modi Stadium
+20,15,6,Jadeja,Bumrah,1,No,Narendra Modi Stadium
+20,16,1,Jadeja,Rahul,3,No,MA Chidambaram
+20,16,2,Mishra,Shami,4,No,Wankhede
+20,16,3,Mishra,Jamieson,0,LBW,MA Chidambaram
+20,16,4,Ruturaj,Thakur,2,No,Eden Gardens
+20,16,5,Dhoni,Patel,1,No,MA Chidambaram
+20,16,6,Dhoni,Patel,2,No,Rajiv Gandhi Stadium
+20,17,1,Ruturaj,Chahar,3,No,Narendra Modi Stadium
+20,17,2,Rayudu,Bumrah,1,No,Eden Gardens
+20,17,3,Moeen Ali,Chahar,2,No,MA Chidambaram
+20,17,4,Conway,Saini,2,No,Rajiv Gandhi Stadium
+20,17,5,Dhoni,Saini,0,Run Out,Wankhede
+20,17,6,Ruturaj,Bumrah,1,No,Eden Gardens
+20,18,1,Mishra,Shami,1,No,Rajiv Gandhi Stadium
+20,18,2,Gaikwad,Shami,0,Bowled,M Chinnaswamy
+20,18,3,Moeen Ali,Thakur,6,No,M Chinnaswamy
+20,18,4,Rayudu,Saini,1,No,Narendra Modi Stadium
+20,18,5,Mishra,Jamieson,1,No,Wankhede
+20,18,6,Conway,Archer,2,No,Narendra Modi Stadium
+20,19,1,Conway,Patel,1,No,Wankhede
+20,19,2,Moeen Ali,Jamieson,2,No,Rajiv Gandhi Stadium
+20,19,3,Ruturaj,Patel,0,Run Out,M Chinnaswamy
+20,19,4,Rahul,Patel,3,No,Eden Gardens
+20,19,5,Conway,Bumrah,2,No,Narendra Modi Stadium
+20,19,6,Gaikwad,Bumrah,3,No,Narendra Modi Stadium
+20,20,1,Rahul,Thakur,4,No,MA Chidambaram
+20,20,2,Moeen Ali,Shami,4,No,MA Chidambaram
+20,20,3,Vijay,Chahar,6,No,Wankhede
+20,20,4,Rahul,Jamieson,1,No,M Chinnaswamy
+20,20,5,Gaikwad,Archer,0,Run Out,M Chinnaswamy
+20,20,6,Jadeja,Chahar,2,No,Wankhede
